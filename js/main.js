@@ -7,12 +7,6 @@ import setupNavigation from 'components/navigation.js';
 
 import AnchorJS from 'anchor-js';
 
-import Reveal from 'reveal.js';
-import Highlight from 'reveal.js/plugin/highlight/highlight.esm.js';
-import Markdown from 'reveal.js/plugin/markdown/markdown.esm.js';
-import MathJax from 'reveal.js/plugin/math/math.esm.js';
-import Zoom from 'reveal.js/plugin/zoom/zoom.esm.js';
-
 const PAGE_ID = document.body.dataset.page;
 
 setupNavigation();
@@ -33,7 +27,6 @@ else if( document.readyState === 'interactive' ) {
 
 function setup() {
 
-	setupInlineDecks();
 	setupPrefetch();
 
 	if( PAGE_ID === 'home' ) {
@@ -55,48 +48,5 @@ function setupAnchors() {
 	const anchors = new AnchorJS();
 	anchors.options = { placement: 'left', icon: '#' };
 	anchors.add( '.article>h2, .article>h3, .article>h4' );
-
-}
-
-function setupInlineDecks() {
-
-	// Inline example decks in the docs
-	Array.from( document.querySelectorAll( '.reveal-example' ) ).forEach( deckElement => {
-
-		// If this deck is paired with an input code block,
-		// wrap them both in a shared container
-		let code = deckElement.previousSibling;
-		if( code.matches( 'pre' ) ) {
-			let wrapper = document.createElement( 'div' );
-			wrapper.className = 'reveal-example-wrapper';
-			code.parentNode.insertBefore( wrapper, code );
-			wrapper.appendChild( code );
-			wrapper.appendChild( deckElement );
-		}
-
-		let config = {};
-
-		if( deckElement.hasAttribute( 'data-config' ) ) {
-			config = JSON.parse( deckElement.dataset.config );
-		}
-
-		let deck = new Reveal( deckElement, {
-			width: 900,
-			height: 500,
-			hash: false,
-			respondToHashChanges: false,
-			embedded: true,
-			progress: false,
-			keyboardCondition: 'focused',
-			controlsTutorial: false,
-			math: {
-			  config: 'TeX-AMS_HTML-full'
-			},
-			plugins: [ Markdown, Highlight, Zoom, MathJax ],
-			... config
-		} );
-		deck.initialize();
-
-	} );
 
 }

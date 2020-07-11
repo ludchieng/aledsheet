@@ -44,7 +44,7 @@ module.exports = eleventyConfig => {
 
     // Collection of pages that can appear in search results
     eleventyConfig.addCollection('searchPages', collection => {
-        return collection.getFilteredByGlob(['src/*.md', 'src/*/*.md']).sort((a,b) => {
+        return collection.getFilteredByGlob(['src/**/*.md']).sort((a,b) => {
             if(a.data.title < b.data.title) return -1;
             if(a.data.title > b.date.title) return 1;
             return 0;

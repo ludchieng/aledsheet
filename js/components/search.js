@@ -1,5 +1,4 @@
 import lunr from 'lunr';
-import trim from 'lodash/trim';
 import throttle from 'lodash/throttle';
 import debounce from 'lodash/debounce';
 import setupHovers from 'components/hover.js';
