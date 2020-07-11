@@ -51,33 +51,6 @@ a, button {
     @apply fill-current;
 }
 
-// Advertising
-#carbonads {
-    width: 100%;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    z-index: 10;
-    text-align: left;
-    @apply text-sm;
-}
-
-#carbonads .carbon-img img {
-    width: 130px;
-    height: 100px;
-    margin: 0 0 10px 0;
-    border: 0;
-    box-shadow: none;
-}
-
-#carbonads .carbon-text {
-    @apply text-gray-700;
-}
-
-#carbonads .carbon-poweredby {
-    display: block;
-    margin-top: 10px;
-    @apply text-gray-500;
-}
-
 
 // Directional hover effect
 .r-anchor {
