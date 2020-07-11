@@ -23,7 +23,6 @@ module.exports = eleventyConfig => {
 
     // Include our static assets
     eleventyConfig.addPassthroughCopy('images')
-    eleventyConfig.addPassthroughCopy('demos')
 
     eleventyConfig.addPlugin(syntaxHighlight, {
         alwaysWrapLineHighlights: false
@@ -45,7 +44,7 @@ module.exports = eleventyConfig => {
 
     // Collection of pages that can appear in search results
     eleventyConfig.addCollection('searchPages', collection => {
-        return collection.getFilteredByGlob('src/*.md').sort((a,b) => {
+        return collection.getFilteredByGlob(['src/*.md', 'src/*/*.md']).sort((a,b) => {
             if(a.data.title < b.data.title) return -1;
             if(a.data.title > b.date.title) return 1;
             return 0;
@@ -63,10 +62,15 @@ module.exports = eleventyConfig => {
 
         return JSON.stringify( page.templateContent ).slice( 1,-1 )
                     .replace( /[\n]\s*[\n]/gm, '\n' )
-                    .replace( /<h1[^>]*.*<\/h1>/gm, '' )
+                    .replace( /<h.[^>]*.*<\/h.>/gm, '' )
                     .replace( /<[^>]*>/g, '' )
                     .replace( /^\\n/g, '' )
                     .trim();
+    });
+
+    // Helper to get the author of a page
+    eleventyConfig.addShortcode('author', page => {
+        return page.data.author;
     });
 
     // eleventyConfig.addWatchTarget("js/");

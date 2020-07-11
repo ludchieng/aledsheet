@@ -1,192 +1,36 @@
 {
   "sections": [
     {
-      "label": "Getting Started",
       "items": [
         {
-          "label": "Overview",
+          "label": "Accueil",
           "url": "/"
-        },
-        {
-          "label": "Installation",
-          "url": "/installation/"
         }
       ]
     },
     {
-      "label": "Content",
+      "label": "Fondamentaux",
+      "items": [
+        {
+          "label": "Dérèglement climatique",
+          "url": "/fondamentaux/dereglement-climatique/"
+        },
+        {
+          "label": "Gaz à effet de serre",
+          "url": "/fondamentaux/gaz-a-effet-de-serre/"
+        },
+        {
+          "label": "Énergie",
+          "url": "/fondamentaux/energie/"
+        }
+      ]
+    },
+    {
+      "label": "Climat",
       "items": [
         {
           "label": "Markup",
           "url": "/markup/"
-        },
-        {
-          "label": "Markdown",
-          "url": "/markdown/"
-        },
-        {
-          "label": "Backgrounds",
-          "url": "/backgrounds/"
-        },
-        {
-          "label": "Media",
-          "url": "/media/"
-        },
-        {
-          "label": "Code",
-          "url": "/code/"
-        },
-        {
-          "label": "Math",
-          "url": "/math/"
-        },
-        {
-          "label": "Fragments",
-          "url": "/fragments/"
-        },
-        {
-          "label": "Links",
-          "url": "/links/"
-        },
-        {
-          "label": "Layout",
-          "url": "/layout/"
-        }
-      ]
-    },
-    {
-      "label": "Customization",
-      "items": [
-        {
-          "label": "Themes",
-          "url": "/themes/"
-        },
-        {
-          "label": "Transitions",
-          "url": "/transitions/"
-        },
-        {
-          "label": "Config Options",
-          "url": "/config/"
-        },
-        {
-          "label": "Presentation Size",
-          "url": "/presentation-size/"
-        }
-      ]
-    },
-    {
-      "label": "Features",
-      "items": [
-        {
-          "label": "Vertical Slides",
-          "url": "/vertical-slides/"
-        },
-        {
-          "label": "Auto-Animate",
-          "url": "/auto-animate/"
-        },
-        {
-          "label": "Auto-Slide",
-          "url": "/auto-slide/"
-        },
-        {
-          "label": "Speaker View",
-          "url": "/speaker-view/"
-        },
-        {
-          "label": "Slide Numbers",
-          "url": "/slide-numbers/"
-        },
-        {
-          "label": "Touch Navigation",
-          "url": "/touch-navigation/"
-        },
-        {
-          "label": "PDF Export",
-          "url": "/pdf-export/"
-        },
-        {
-          "label": "Overview Mode",
-          "url": "/overview/"
-        },
-        {
-          "label": "Fullscreen Mode",
-          "url": "/fullscreen/"
-        }
-      ]
-    },
-    {
-      "label": "API",
-      "items": [
-        {
-          "label": "Initialization",
-          "url": "/initialization/"
-        },
-        {
-          "label": "API Methods",
-          "url": "/api/"
-        },
-        {
-          "label": "Events",
-          "url": "/events/"
-        },
-        {
-          "label": "Keyboard",
-          "url": "/keyboard/"
-        },
-        {
-          "label": "Presentation State",
-          "url": "/presentation-state/"
-        },
-        {
-          "label": "postMessage",
-          "url": "/postmessage/"
-        }
-      ]
-    },
-    {
-      "label": "Plugins",
-      "items": [
-        {
-          "label": "Using Plugins",
-          "url": "/plugins/"
-        },
-        {
-          "label": "Built-in Plugins",
-          "url": "/plugins/#built-in-plugins"
-        },
-        {
-          "label": "Creating a Plugin",
-          "url": "/creating-plugins/"
-        },
-        {
-          "label": "Multiplex",
-          "url": "/multiplex/"
-        },
-        {
-          "label": "Third Party Plugins",
-          "url": "https://github.com/hakimel/reveal.js/wiki/Plugins,-Tools-and-Hardware",
-          "external": true
-        }
-      ]
-    },
-    {
-      "label": "Other",
-      "items": [
-        {
-          "label": "Upgrade Instructions",
-          "url": "/upgrading/"
-        },
-        {
-          "label": "Changelog",
-          "url": "https://github.com/hakimel/reveal.js/releases",
-          "external": true
-        },
-        {
-          "label": "3.9.2 Docs",
-          "url": "https://github.com/hakimel/reveal.js/blob/3.9.2/README.md",
-          "external": true
         }
       ]
     }

@@ -1,5 +1,3 @@
-@import '../node_modules/reveal.js/dist/reveal';
-@import 'lib/reveal-theme';
 @import '../node_modules/highlight.js/scss/dracula.scss';
 @import '../node_modules/prism-themes/themes/prism-dracula';
 
@@ -7,7 +5,6 @@
 
 @tailwind base;
 @import 'base';
-@import 'decks';
 @import 'header';
 @import 'search';
 @import 'content';

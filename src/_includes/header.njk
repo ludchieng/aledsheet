@@ -1,33 +1,24 @@
 <header class="header {% if id == "home" %}sticky{% else %}fixed{% endif %} flex h-16 items-center top-0 w-full z-30 bg-gray-100 py-2 border-b border-gray-300">
-  <div class="w-full relative max-w-screen-xl mx-auto px-6 flex flex-row items-center justify-between">
-    <div class="header-left mr-6 flex-shrink-0">
-      <a class="header-logo block" href="/" title="reveal.js home">
-        <img class="hidden sm:block" src="/images/logo/reveal-black-text.svg" alt="reveal.js logo" style="width: 142px">
-        <img class="block sm:hidden" src="/images/logo/reveal-symbol.svg" alt="reveal.js logo" style="width: 40px">
+  <div class="w-full relative max-w-screen-xl mx-auto px-6 flex flex-row items-center">
+    <div class="header-left mr-2 w-1/5 flex-shrink-0">
+      <a class="header-logo block" href="/" title="logo aledsheet">
+        aledsheet Logo
       </a>
-      <a class="header-cta py-3 px-2 -mx-2 text-gray-800 hover:text-gray-900 rounded font-semibold" href="/installation">Get Started</a>
     </div>
 
-    <div class="search relative mr-2 flex-grow max-w-3xl sm:mr-6">
-      <input class="search-input appearance-none w-full inline-block py-1 px-4 bg-gray-300 border-2 border-gray-300 outline-none rounded-full placeholder-gray-600 text-gray-800 hover:text-gray-900 focus:border-yellow-400 focus:bg-white" placeholder="Search reveal.js..." />
+    <div class="search relative mr-2 flex-grow max-w-2xl sm:mr-6">
+      <input class="search-input appearance-none w-full inline-block py-1 px-4 bg-gray-300 border-2 border-gray-300 outline-none rounded-full placeholder-gray-600 text-gray-800 hover:text-gray-900 focus:border-yellow-400 focus:bg-white" placeholder="Search..." />
       <div class="search-results overflow-hidden fixed left-4 right-4 top-100 bg-white p-2 mt-2 rounded-lg shadow-2xl text-sm lg:absolute lg:left-auto lg:right-auto lg:min-w-full" data-state="no-term"></div>
     </div>
 
     <nav class="header-nav hidden lg:flex">
 
       <ul class="menu flex flex-col lg:flex-row items-center list-reset text-base">
-
-        <li>
-          <a class="inline-block py-3 px-5 text-gray-800 hover:text-gray-900 rounded align-middle" href="{{ site.urls.twitter }}">
-            {% include "images/icons/twitter.svg" %}
-          </a>
-        </li>
         <li>
           <a class="inline-block py-3 px-5 text-gray-800 hover:text-gray-900 rounded align-middle" href="{{ site.urls.github }}">
             {% include "images/icons/github.svg" %}
           </a>
         </li>
-
       </ul>
 
     </nav>
@@ -35,12 +26,6 @@
     <nav class="header-nav lg:hidden flex">
 
       <ul class="menu flex flex-row items-center list-reset text-sm">
-
-        {# <li>
-          <a class="inline-block p-2 text-gray-800 hover:text-gray-900 rounded align-middle" href="{{ site.urls.twitter }}">
-            {% include "images/icons/twitter.svg" %}
-          </a>
-        </li> #}
         <li>
           <a class="inline-block p-2 mr-1 text-gray-800 hover:text-gray-900 rounded align-middle" href="{{ site.urls.github }}">
             {% include "images/icons/github.svg" %}

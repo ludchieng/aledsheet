@@ -141,51 +141,6 @@
 
 }
 
-
-.article {
-    // An inline presentation
-    .reveal-example {
-        height: 280px;
-        box-sizing: content-box;
-        @apply my-4 -mx-4 p-4 rounded border-t border-gray-700;
-
-        h1, h2, h3 {
-            margin-top: 0;
-        }
-
-        pre {
-            font-size: 28px;
-            width: 100%;
-        }
-
-        a {
-            @apply no-underline border-none;
-        }
-    }
-
-    pre + .reveal-example {
-        @apply -mt-2 rounded-t-none;
-    }
-
-    // Input/output (code/deck) wrapper
-    .reveal-example-wrapper pre[class*="language-"] {
-        @apply mb-0 rounded-b-none;
-    }
-
-    .reveal-example-wrapper .reveal-example {
-        @apply mt-0 rounded-t-none;
-    }
-
-    .reveal-example.focused:before {
-        content: '';
-        @apply absolute block inset-0 border-2 border-pink-400 pointer-events-none rounded-b;
-    }
-}
-.article .reveal h1 { font-size: 2.5em; }
-.article .reveal h2 { font-size: 1.6em; }
-.article .reveal h3 { font-size: 1.3em; }
-
-
 .anchorjs-link:after {
     @apply text-gray-400;
 }

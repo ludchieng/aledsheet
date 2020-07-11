@@ -1,21 +1,21 @@
 {
-  "name": "revealjs.com",
+  "name": "aledsheet",
   "version": "0.1.0",
-  "description": "The official reveal.js website",
+  "description": "Cheatsheets collection website",
   "scripts": {
     "test": "mdspell -r -n -a --en-us 'src/*.md' 'src/**/*.md'",
-    "start": "NODE_ENV=development npx @11ty/eleventy --config=eleventy.config.js --serve & gulp & npm test",
-    "production": "NODE_ENV=production gulp build && NODE_ENV=production npx @11ty/eleventy --config=eleventy.config.js"
+    "start": "npx @11ty/eleventy --config=eleventy.config.js --serve & gulp & test",
+    "production": "gulp build && npx @11ty/eleventy --config=eleventy.config.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reveal/revealjs.com.git"
+    "url": "git+https://github.com/ludchieng/aledsheet.git"
   },
   "keywords": [],
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "https://hakim.se"
+    "name": "Ludwig Chieng",
+    "email": "lud.chieng@hotmail.fr",
+    "web": "https://ludchieng.fr"
   },
   "license": "MIT",
   "devDependencies": {
@@ -41,7 +41,6 @@
     "webpack-stream": "^5.2.1"
   },
   "dependencies": {
-    "highlight.js": "^10.0.3",
-    "reveal.js": "github:hakimel/reveal.js#dev"
+    "highlight.js": "^10.0.3"
   }
 }
