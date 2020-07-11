@@ -1,0 +1,104 @@
+body,
+.header,
+.sidebar,
+.sidebar-scroller {
+  @apply bg-gray-900;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply text-white;
+}
+
+body {
+  @apply text-gray-300;
+}
+
+b,
+strong {
+  @apply text-white;
+}
+
+.r-anchor-background {
+  @apply bg-gray-800;
+}
+
+.search-results .r-anchor-background {
+  @apply bg-gray-750;
+}
+
+.r-version-badge {
+  @apply text-gray-500;
+}
+
+.r-var-type {
+    @apply text-gray-300;
+}
+
+.anchorjs-link:after {
+    @apply text-gray-600;
+}
+
+// sidebar
+.sidebar .level-1 {
+  @apply text-orange-400;
+}
+
+.nav-link {
+  @apply text-gray-400 opacity-75;
+}
+
+.nav-link:hover {
+  @apply text-white;
+}
+
+.nav-link.selected {
+  @apply text-green-100 bg-green-800;
+}
+
+// search
+.search-input {
+  @apply bg-gray-800 border-gray-700 text-gray-400;
+}
+
+.search-input:focus {
+  @apply border-gray-500;
+}
+
+.search-desc {
+  @apply text-gray-600;
+}
+
+.search-results {
+  @apply bg-gray-800;
+}
+
+.search-results .excerpt {
+  @apply text-gray-400;
+}
+
+.search-results mark {
+    @apply bg-orange-700 text-orange-100;
+}
+
+// header
+.header {
+  @apply text-gray-300;
+}
+
+.header .menu-toggle {
+  stroke: #ddd;
+  stroke-width: 2px;
+}
+
+// footer
+.footer {
+  @apply text-gray-600;
+
+  a {
+    @apply text-pink-500;
+  }
+
+  a:hover {
+    @apply text-pink-600;
+  }
+}

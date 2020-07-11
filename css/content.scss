@@ -63,7 +63,7 @@
     }
 
     .r-version-badge {
-        @apply text-xs p-px text-gray-500 float-right;
+        @apply text-xs p-px float-right;
     }
     .r-version-badge.new:before {
         content: 'New in ';
@@ -73,7 +73,7 @@
     }
 
     .r-var-type {
-        @apply text-gray-700 ml-2 text-sm border p-px px-1 rounded-sm;
+        @apply ml-2 text-sm border p-px px-1 rounded-sm;
     }
 }
 
@@ -139,8 +139,4 @@
         width: 100%;
     }
 
-}
-
-.anchorjs-link:after {
-    @apply text-gray-400;
 }

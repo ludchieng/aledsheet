@@ -8,7 +8,7 @@ import setupHovers from 'components/hover.js';
 
 export default async () => {
 
-	const SEARCH_RESULT_LIMIT = 3;
+	const SEARCH_RESULT_LIMIT = 10;
 
 	const searchInput = document.querySelector( '.search-input' );
 	const searchResults = document.querySelector( '.search-results' );
@@ -37,6 +37,7 @@ export default async () => {
 	}
 
 	let search = debounce( searchTerm => {
+		// TODO replace special chars by common chars
 
 		// Make sure we're loaded
 		if( docs ) {
@@ -109,7 +110,7 @@ export default async () => {
 		searchResults.dataset.state = state;
 
 		if( typeof description === 'string' ) {
-			searchResults.innerHTML = `<span class="text-gray-500">${description}</span>`;
+			searchResults.innerHTML = `<span class="search-desc">${description}</span>`;
 		}
 
 	}

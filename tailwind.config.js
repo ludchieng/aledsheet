@@ -1,3 +1,5 @@
+const { colors } = require('tailwindcss/defaultTheme')
+
 module.exports = {
   purge: [
     './src/**/*.html',
@@ -7,6 +9,12 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        gray: {
+          ...colors.gray,
+          '750': '#3c4658'
+        }
+      },
       inset: {
         '4': '1rem',
         '16': '4rem',

@@ -27,15 +27,11 @@ a, button {
 
 // sidebar
 .nav-link {
-    @apply text-gray-700 w-full inline-block;
-}
-
-.nav-link:hover {
-    @apply text-gray-900;
+    @apply w-full inline-block;
 }
 
 .nav-link.selected {
-    @apply text-yellow-900 bg-yellow-400 rounded;
+    @apply rounded;
 }
 
 
@@ -73,7 +69,6 @@ a, button {
     visibility: hidden;
     border-radius: 0.25rem;
     z-index: -1;
-    @apply bg-gray-300;
 
     transition: opacity 0.2s $easeOutQuint,
                 visibility 0.2s $easeOutQuint,
@@ -86,8 +81,4 @@ a, button {
     visibility: visible;
 
     transition: transform 0.3s $easeOutQuint;
-}
-
-.search-result .r-anchor-background {
-    @apply bg-gray-200;
 }
