@@ -27,11 +27,7 @@
     // :'(
     & > a,
     a:not([class]) {
-        @apply text-pink-700 border-b border-pink-200 no-underline break-words;
-
-        &:hover {
-            @apply text-pink-900 border-pink-300;
-        }
+        @apply border-b no-underline break-words;
     }
 
     b, strong {
@@ -90,7 +86,7 @@
     }
 
     code:not([class*="language-"]):not(.hljs) {
-        @apply rounded bg-gray-200 text-pink-900 p-1 py-px leading-relaxed;
+        @apply rounded p-1 py-px leading-relaxed;
     }
 
     pre mark {

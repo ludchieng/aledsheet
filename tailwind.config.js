@@ -12,7 +12,8 @@ module.exports = {
       colors: {
         gray: {
           ...colors.gray,
-          '750': '#3c4658'
+          '750': '#3c4658',
+          '850': '#2c3348'
         }
       },
       inset: {
