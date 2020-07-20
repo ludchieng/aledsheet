@@ -2,22 +2,16 @@
 id: home
 title: Accueil
 layout: home
+tags: accueil index home landing
+searchable: false
 ---
 
-# Acquérir une vision globale cohérente des enjeux énergie-climat
+# Aledsheet : Bienvenue dans mon palais mental 🏰
 
-Voluptate cillum labore cupidatat **Lorem ipsum** aute irure dolor. Aliqua ea id consequat sint commodo laboris cillum irure Lorem eiusmod excepteur amet. Ad irure sunt *magna minim commodo* elit ea ut cillum pariatur do. Culpa ullamco dolor dolor irure incididunt laborum. Dolor culpa pariatur voluptate exercitation `cupidatat laboris esse` id laboris deserunt ipsum ex aliquip. Deserunt aute occaecat commodo reprehenderit amet Lorem non deserunt voluptate dolor Lorem. Sunt incididunt ipsum culpa proident enim ex.
+Bien le bonjour ! Ici se trouvent des fiches qui résument plus ou moins ce que je pense avoir compris sur divers sujets : musique, climat, énergie, zététique, audiovisuel, programmation, philosophie, droit, et autres...
 
-Elit ipsum consectetur irure est quis anim cillum fugiat ex ut sit laboris. Et sunt sunt id aliquip excepteur aliqua exercitation [cupidatat est non dolore](https://aled.tchouf). Minim duis adipisicing anim cillum minim consequat esse excepteur. Quis elit amet Lorem ullamco consequat nostrud. Dolor magna laborum est nulla ad ea fugiat exercitation cupidatat exercitation labore. In id ex veniam dolor sit reprehenderit officia esse ea ea ipsum officia.
+Il y a deux buts à cela :
+* **accéder rapidement** à des connaissances, des infos, des statistiques que j'aurai potentiellement oublié sur tel ou tel sujet
+* **partager à d'autres** mes connaissances et mes opinions de manière écrite et organisée.
 
-```c
-int main(void) {
-  return 0;
-}
-```
-
-Consectetur nostrud minim eu sunt consequat veniam ut esse aliquip. Nulla labore ea aute esse laborum voluptate mollit enim nulla adipisicing quis ex nostrud. Voluptate id voluptate nulla aliquip ut. Ad minim elit incididunt nulla fugiat labore duis Lorem amet. Quis laboris ipsum nisi exercitation aliquip mollit veniam laboris non. Minim ex elit excepteur excepteur aliquip in veniam laboris sunt sit anim commodo do.
-
-Commodo veniam in qui laboris officia voluptate dolor dolore magna velit minim adipisicing. Occaecat ad elit exercitation fugiat ea reprehenderit consectetur et. Cupidatat commodo laborum irure dolore minim adipisicing in officia. Duis nisi amet ex deserunt consequat consectetur laborum culpa do nulla.
-
-Commodo Lorem enim duis reprehenderit aliquip anim aute fugiat elit. Ea id consequat est elit labore cillum Lorem labore. Occaecat laborum id veniam consectetur qui reprehenderit commodo excepteur ex ea. Aliqua ad anim duis aliquip ex. Est et eu dolor occaecat officia.
+C'est une sorte de **palais mental** (*ou palais de mémoire*) que je tiens à titre personnel. D'ailleurs, je ne garantie pas l'exactitude de ce qui s'y trouve. Et, je compte sur vous pour savoir localiser les éléments qui relève du **factuel**, de la **connaissance** et a contrario, de l'**arbitrage personnel** et donc de mon **opinion**.
