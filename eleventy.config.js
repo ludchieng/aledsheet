@@ -36,6 +36,8 @@ module.exports = eleventyConfig => {
 
     md.use( require('markdown-it-attrs') );
     md.use( require('markdown-it-anchor') );
+    md.use( require('markdown-it-sub') );
+    md.use( require('markdown-it-sup') );
 
     eleventyConfig.setLibrary('md', md);
 
@@ -49,7 +51,8 @@ module.exports = eleventyConfig => {
             if(a.data.title > b.date.title) return 1;
             return 0;
         }).filter( page => {
-            return !page.data.hidden;
+            return page.data.searchable == null
+                || page.data.searchable;
         } );
     });
 
@@ -62,15 +65,26 @@ module.exports = eleventyConfig => {
 
         return JSON.stringify( page.templateContent ).slice( 1,-1 )
                     .replace( /[\n]\s*[\n]/gm, '\n' )
-                    .replace( /<h.[^>]*.*<\/h.>/gm, '' )
+                    .replace( /<h1[^>]*.*<\/h1>/gm, '' )
                     .replace( /<[^>]*>/g, '' )
-                    .replace( /^\\n/g, '' )
                     .trim();
     });
 
-    // Helper to get the author of a page
-    eleventyConfig.addShortcode('author', page => {
-        return page.data.author;
+    // Helper for extracting the searchable content in a page
+    eleventyConfig.addShortcode('searchContentNormalized', page => {
+        if( !page.hasOwnProperty('templateContent') ) {
+            console.warn('Failed to extract excerpt: Document has no property "templateContent".');
+            return null;
+        }
+
+        return JSON.stringify( page.templateContent ).slice( 1,-1 )
+                    .replace( /[\n]\s*[\n]/gm, '\n' )
+                    .replace( /<h1[^>]*.*<\/h1>/gm, '' )
+                    .replace( /<[^>]*>/g, '' )
+                    .normalize("NFD")
+                    .replace(/[\u0300-\u036f]/g, "")
+                    .replace(/[-'’–—]/g, " ")
+                    .trim();
     });
 
     // eleventyConfig.addWatchTarget("js/");

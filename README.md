@@ -1,2 +1,2 @@
-# aledsheet
+# aledsheet 🏰🌠
 Cheatsheets collection website.

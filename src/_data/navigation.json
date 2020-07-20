@@ -9,28 +9,41 @@
       ]
     },
     {
-      "label": "Fondamentaux",
+      "label": "Energie-Climat",
       "items": [
         {
           "label": "Dérèglement climatique",
-          "url": "/fondamentaux/dereglement-climatique/"
+          "url": "/energie-climat/dereglement-climatique/"
         },
         {
           "label": "Gaz à effet de serre",
-          "url": "/fondamentaux/gaz-a-effet-de-serre/"
+          "url": "/energie-climat/gaz-a-effet-de-serre/"
         },
         {
           "label": "Énergie",
-          "url": "/fondamentaux/energie/"
+          "url": "/energie-climat/energie/"
         }
       ]
     },
     {
-      "label": "Climat",
+      "label": "Zététique",
       "items": [
         {
-          "label": "Markup",
-          "url": "/markup/"
+          "label": "Preuve",
+          "url": "/zetetique/preuve/"
+        }
+      ]
+    },
+    {
+      "label": "Droit",
+      "items": [
+        {
+          "label": "Institutions juridictionnelles",
+          "url": "/droit/institutions-juridictionnelles/"
+        },
+        {
+          "label": "Lexique en vrac",
+          "url": "/droit/lexique-en-vrac/"
         }
       ]
     }

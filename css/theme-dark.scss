@@ -34,6 +34,22 @@ body {
   @apply bg-gray-800 text-gray-300;
 }
 
+.article hr {
+  @apply border-gray-700;
+}
+
+.article > table {
+
+  tbody {
+    //TODO tr fill full width space
+    @apply inline-block w-full;
+  }
+
+  tr {
+    background-color: #fff1;
+  }
+}
+
 .r-anchor-background {
   @apply bg-gray-850;
 }

@@ -7,7 +7,9 @@ permalink: /api/search.json
   {
      "title":"{{page.data.title}}",
      "url":"{{page.url}}",
-     "content":"{% searchContent page %}"
+     "tags":"{{ page.data.tags }}",
+     "content":"{{ page.data.tags }} | {% searchContent page %}",
+     "contentNormalized":"{{ page.data.tags }} | {% searchContentNormalized page %}"
   }{% if loop.last != true %},{% endif %}
 {% endfor %}
 ]

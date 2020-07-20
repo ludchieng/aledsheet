@@ -37,7 +37,9 @@ export default async () => {
 	}
 
 	let search = debounce( searchTerm => {
-		// TODO replace special chars by common chars
+		searchTerm.normalize("NFD")
+		.replace(/[\u0300-\u036f]/g, "") // remove diacritics
+		.replace(/[-'’–—]/g, " ");
 
 		// Make sure we're loaded
 		if( docs ) {

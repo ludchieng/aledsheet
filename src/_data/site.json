@@ -1,5 +1,5 @@
 {
-    "name": "aledsheet",
+    "name": "Aledsheet",
     "url": "",
     "urls": {
         "github": "https://github.com/ludchieng/aledsheet"
@@ -12,6 +12,6 @@
     },
     "images": {
         "logo": "",
-        "favicon": "/images/favicon.svg"
+        "favicon": "/images/favicon.png"
     }
 }
