@@ -5,6 +5,59 @@
         {
           "label": "Accueil",
           "url": "/"
+        },
+        {
+          "label": "Signal",
+          "url": "/signal/"
+        }
+      ]
+    },
+    {
+      "label": "Philosophie",
+      "items": [
+        {
+          "label": "Culture",
+          "url": "/philosophie/culture/"
+        },
+        {
+          "label": "Langage",
+          "url": "/philosophie/langage/"
+        },
+        {
+          "label": "Technique",
+          "url": "/philosophie/technique/"
+        },
+        {
+          "label": "Travail",
+          "url": "/philosophie/travail/"
+        },
+        {
+          "label": "Histoire",
+          "url": "/philosophie/histoire/"
+        },
+        {
+          "label": "Art et technique",
+          "url": "/philosophie/art-et-technique/"
+        },
+        {
+          "label": "Religion",
+          "url": "/philosophie/religion/"
+        },
+        {
+          "label": "Morale",
+          "url": "/philosophie/morale/"
+        },
+        {
+          "label": "Politique",
+          "url": "/philosophie/politique/"
+        },
+        {
+          "label": "Raison et réel",
+          "url": "/philosophie/raison-et-reel/"
+        },
+        {
+          "label": "Sujet",
+          "url": "/philosophie/sujet/"
         }
       ]
     },
