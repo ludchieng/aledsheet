@@ -1,5 +1,9 @@
 <footer class="footer flex mt-24 pt-4 px-4 w-full border-t justify-end text-sm">
-    {% if author | length %}
+    {% if author is null %}
+      <span class="p-2 mr-auto">
+        Auteur inconnu
+      </span>
+    {% elif author | length %}
       <span class="p-2 mr-auto">
         Rédigé par {{ author }}
       </span>

@@ -14,4 +14,4 @@ Il y a deux buts à cela :
 * **accéder rapidement** à des connaissances, des infos, des statistiques que j'aurai potentiellement oublié sur tel ou tel sujet
 * **partager à d'autres** mes connaissances et mes opinions de manière écrite et organisée.
 
-C'est une sorte de **palais mental** (*ou palais de mémoire*) que je tiens à titre personnel. D'ailleurs, je ne garantie pas l'exactitude de ce qui s'y trouve. Et, je compte sur vous pour savoir localiser les éléments qui relève du **factuel**, de la **connaissance** et a contrario, de l'**arbitrage personnel** et donc de mon **opinion**.
+C'est une sorte de **palais mental** (*ou palais de mémoire*) que je tiens à titre personnel. D'ailleurs, je ne garantie pas l'exactitude de ce qui s'y trouve. Et, je compte sur vous pour savoir localiser les éléments qui relève du **factuel**, de la **connaissance** ou au contraire, de l'**arbitrage personnel** et donc de mon **opinion**.

@@ -5,19 +5,23 @@
     }
 
     h1 {
-        @apply text-3xl mb-4;
+        @apply text-3xl mb-4 font-medium;
     }
 
     h2 {
-        @apply text-2xl mb-3;
+        @apply text-2xl mb-1 font-medium;
     }
 
     h3 {
-        @apply text-xl mb-3;
+        @apply text-xl mb-1 font-medium;
     }
 
     h4 {
-        @apply text-lg mb-1;
+        @apply text-lg mt-4 mb-1 font-semibold;
+    }
+
+    h5 {
+        @apply text-lg mt-4 mb-1 font-medium;
     }
 
     h1:first-child {
@@ -71,6 +75,12 @@
     .r-var-type {
         @apply ml-2 text-sm border p-px px-1 rounded-sm;
     }
+
+    .katex { font-size: 1.1em; }
+
+    .katex * {  user-select: none; }
+
+    .katex-html { display: none; }
 }
 
 // code blocks
@@ -131,4 +141,13 @@
         width: 100%;
     }
 
+}
+
+nav {
+    // TOC counter
+    ol li { display:block; } 
+    ol { list-style:none; }
+    ol > li:first-child { counter-reset: item; }
+    ol > li { counter-increment: item; }
+    ol > li:before { content:counters(item, ".") ". "; }
 }

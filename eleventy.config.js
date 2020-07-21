@@ -34,10 +34,19 @@ module.exports = eleventyConfig => {
         linkify: true
     });
 
-    md.use( require('markdown-it-attrs') );
-    md.use( require('markdown-it-anchor') );
+    
     md.use( require('markdown-it-sub') );
     md.use( require('markdown-it-sup') );
+    md.use( require('markdown-it-attrs') );
+    md.use( require('markdown-it-anchor') );
+    md.use( require("markdown-it-toc-done-right"), {
+        level: [2, 3, 4, 5]
+    });
+    md.use( require('markdown-it-texmath'), {
+        engine: require('katex'),
+        //delimiters: 'dollars',
+        katexOptions: { displayMode: true }
+    });
 
     eleventyConfig.setLibrary('md', md);
 
