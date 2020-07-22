@@ -3,6 +3,7 @@ id: religion
 title: Religion
 author: null
 layout: default
+quality: 5
 tags: philosophie culture religion
 licence: (c) auteur inconnu
 ---

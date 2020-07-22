@@ -99,6 +99,15 @@
           "url": "/droit/lexique-en-vrac/"
         }
       ]
+    },
+    {
+      "label": "Bureautique",
+      "items": [
+        {
+          "label": "Caractères spéciaux",
+          "url": "/bureautique/caracteres-speciaux/"
+        }
+      ]
     }
   ]
 }

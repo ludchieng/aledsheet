@@ -3,6 +3,7 @@ id: travail
 title: Travail
 author: null
 layout: default
+quality: 5
 tags: philosophie culture travail
 licence: (c) auteur inconnu
 ---

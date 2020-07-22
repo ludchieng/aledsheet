@@ -3,6 +3,7 @@ id: technique
 title: Technique
 author: null
 layout: default
+quality: 5
 tags: philosophie culture technique
 licence: (c) auteur inconnu
 ---

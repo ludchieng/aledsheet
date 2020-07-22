@@ -12,6 +12,6 @@
     },
     "images": {
         "logo": "",
-        "favicon": "/images/favicon.png"
+        "favicon": "/assets/images/favicon.png"
     }
 }

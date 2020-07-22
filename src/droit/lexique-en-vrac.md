@@ -3,7 +3,9 @@ id: lexique-en-vrac
 title: Lexique en vrac
 author: Ludwig Chieng
 layout: default
+quality: 4
 tags: droit institution juridiction lexique vrac
+licence: CC-BY-SA Ludwig Chieng
 ---
 
 # Lexique en vrac de droit

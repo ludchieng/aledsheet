@@ -3,6 +3,7 @@ id: culture
 title: Culture
 author: null
 layout: default
+quality: 5
 tags: philosophie culture nature
 licence: (c) auteur inconnu
 ---

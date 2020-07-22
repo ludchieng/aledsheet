@@ -3,7 +3,9 @@ id: preuve
 title: Preuve
 author: Ludwig Chieng
 layout: default
+quality: 5
 tags: zetetique preuve
+licence: CC-BY-SA Ludwig Chieng
 ---
 
 # La preuve

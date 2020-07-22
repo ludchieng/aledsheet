@@ -3,6 +3,7 @@ id: langage
 title: Langage
 author: null
 layout: default
+quality: 5
 tags: philosophie culture langage
 licence: (c) auteur inconnu
 ---

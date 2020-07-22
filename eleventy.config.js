@@ -22,7 +22,7 @@ module.exports = eleventyConfig => {
     eleventyConfig.addLayoutAlias('home', 'home.njk')
 
     // Include our static assets
-    eleventyConfig.addPassthroughCopy('images')
+    eleventyConfig.addPassthroughCopy('assets')
 
     eleventyConfig.addPlugin(syntaxHighlight, {
         alwaysWrapLineHighlights: false

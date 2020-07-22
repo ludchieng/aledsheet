@@ -3,6 +3,7 @@ id: histoire
 title: Histoire
 author: null
 layout: default
+quality: 5
 tags: philosophie culture histoire
 licence: (c) auteur inconnu
 ---
