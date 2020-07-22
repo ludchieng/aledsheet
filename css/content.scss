@@ -78,7 +78,7 @@
 
     .katex { font-size: 1.1em; }
 
-    .katex * {  user-select: none; }
+    .katex mrow { user-select: none; }
 
     .katex-html { display: none; }
 }
