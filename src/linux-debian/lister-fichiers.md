@@ -3,7 +3,7 @@ id: lister-les-fichiers
 title: Lister les fichiers
 author: Ludwig Chieng
 layout: default
-tags: linux unix debian ubuntu mint
+tags: linux unix debian ubuntu mint commandes terminal shell bash ls
 licence: CC-BY-SA Ludwig Chieng
 ---
 
@@ -60,14 +60,14 @@ Dans `r-x`, le tiret signifie qu'il n'y a pas le droit d'écriture. Le bloc `rwx
 
 Exemple de permissions : `rwxr-x---`, où le propriétaire a tous les droits sur l'élément, les membres du group peuvent seulement le lire et l'exécuter et les autres n'ont aucun droit.
 
-Les permissions sont un ensemble de concepts assez technique qu'on ne détaillera pas pour le moment. S'il est impossible d'exécuter un fichier pour cause de `Permission non accordée`, retenter la commande avec `sudo` devant (ex. : `sudo mkdir nudes`). La commande demandera le mot de passe administrateur.
+Les permissions sont un ensemble de concepts assez technique qu'on ne détaillera pas pour le moment. S'il est impossible d'exécuter un fichier pour cause de `Permission non accordée`, retenter la commande avec `sudo` devant (ex. : `sudo mkdir nudes`). La commande demandera le mot de passe administrateur (*super-utilisateur* ou *root*).
 
 Les colonnes suivantes représentent :
-* le **nombre de lien** (pas très important)
+* le **nombre de liens** (pas très important)
 * l'utilisateur **propriétaire** associé
 * l'utilisateur **leader du groupe** associé
 * la **taille en octet** du fichier ou 4096 pour les répertoires
-* la date et heures des dernières modifications
+* la date et heure des dernières modifications
 * le nom de l'élément
 
 ## Les fichiers cachés
@@ -86,3 +86,12 @@ $ ls -l -a
 # Lister les fichiers et répertoires y compris cachés avec les détails
 $ ls -la
 ```
+
+## Les autres options
+
+``` shell
+# Afficher la page manuel de la commande "ls"
+$ man ls
+```
+
+On peut voir la description de la commande ainsi que de toutes ses options dans le manuel. Appuyez sur `q` pour quitter le manuel.

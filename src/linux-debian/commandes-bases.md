@@ -3,7 +3,7 @@ id: commandes-bases
 title: Introduction aux commandes Linux Debian
 author: Ludwig Chieng
 layout: default
-tags: linux unix debian ubuntu mint
+tags: linux unix debian ubuntu mint commandes terminal shell bash
 licence: CC-BY-SA Ludwig Chieng
 ---
 
@@ -43,6 +43,13 @@ rasputin@192.168.1.34:~$ █
 rasputin@dayum.com:~$ █
 ```
 
+``` shell
+# Exemple de commande compliquée
+rasputin@wololo:~$ scp -P 10124 -r './*.js' rasptn@54.98.125.33:~/site_oueb█
+# transfère des fichiers js d'une machine appelée "wololo" vers une
+# autre, accessible à l'IP 54.98.125.33 par le port réseau 10124
+```
+
 ### On tape quoi dukou ?
 
 ``` shell
@@ -74,9 +81,10 @@ Appuyer sur `↑` permet d'accéder à la commande précédente. Il est possible
 
 **Astuce le retour** \
 Pour aller plus vite, on peut taper seulement `rmdir n` et appuyer sur la touche `TAB`. Normalement, le nom du répertoire apparaît tout en entier d'un coup ! C'est ce qu'on appelle l'**autocomplétion**. Cela fonctionne pour toutes les commandes qui demandent des noms de répertoires comme `cd` par exemple. Si ça ne marche pas c'est probablement :
+* qu'il n'y a pas de répertoire qui commence par « n »,
 * qu'il y a un autre répertoire qui commence par « n ». Il faut taper `rmdir nu` puis `TAB`,
 * qu'on n'est pas dans le bon répertoire (commande `ls` pour avoir la liste des fichiers et répertoires et `cd` pour se déplacer),
-* que la commande n'est pas la bonne.
+* que la commande n'est pas la bonne. (ex. : `rmdir-n`, `rmdr n`)
 
 **Astuce 3 : Tokyo Drift** \
 Si une commande met trop de temps à s'exécuter, pour interrompre le programme il suffit de faire `Ctrl+C`.

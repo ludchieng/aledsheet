@@ -47,7 +47,35 @@
         },
         {
           "label": "Lister les fichiers",
-          "url": "/linux-debian/lister-les-fichiers/"
+          "url": "/linux-debian/lister-fichiers/"
+        },
+        {
+          "label": "Gérer les logiciels",
+          "url": "/linux-debian/gerer-logiciels/"
+        },
+        {
+          "label": "Gérer les fichiers textes",
+          "url": "/linux-debian/gerer-fichiers-textes/"
+        },
+        {
+          "label": "Manipuler les fichiers",
+          "url": "/linux-debian/manipuler-fichiers/"
+        },
+        {
+          "label": "Permissions",
+          "url": "/linux-debian/permissions/"
+        },
+        {
+          "label": "Autres commandes",
+          "url": "/linux-debian/autres-commandes/"
+        },
+        {
+          "label": "Programmer en C",
+          "url": "/linux-debian/compiler-programme-c/"
+        },
+        {
+          "label": "SSH",
+          "url": "/linux-debian/ssh/"
         }
       ]
     },

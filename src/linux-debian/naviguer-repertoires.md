@@ -3,7 +3,7 @@ id: naviguer-repertoires
 title: Naviguer dans les répertoires
 author: Ludwig Chieng
 layout: default
-tags: linux unix debian ubuntu mint
+tags: linux unix debian ubuntu mint commandes terminal shell bash cd
 licence: CC-BY-SA Ludwig Chieng
 ---
 
