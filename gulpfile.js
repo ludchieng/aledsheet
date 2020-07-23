@@ -28,7 +28,7 @@ gulp.task('js', () => gulp.src(['assets/js/main.js'])
     .pipe(rename('main.js'))
     .pipe(gulp.dest('./dist')))
 
-gulp.task('css', () => gulp.src(['css/main.scss'])
+gulp.task('css', () => gulp.src(['assets/css/main.scss'])
     .pipe(sass())
     .pipe(postcss())
     .pipe(rename('main.css'))
@@ -37,7 +37,7 @@ gulp.task('css', () => gulp.src(['css/main.scss'])
 gulp.task('build', gulp.parallel('js', 'css'))
 
 gulp.task('default', () => {
-    gulp.watch([ 'js/**.*', 'js/*/**.*' ], gulp.series('js'))
-    gulp.watch([ 'css/**.*' ], gulp.series('css'))
+    gulp.watch([ 'assets/js/**.*', 'assets/js/*/**.*' ], gulp.series('js'))
+    gulp.watch([ 'assets/css/**.*' ], gulp.series('css'))
     gulp.parallel('js', 'css')()
 })
