@@ -1,26 +1,27 @@
 ---
-id: gerer-fichiers-textes
-title: Gérer les fichiers textes
+id: gerer-fichiers-texte
+title: Gérer les fichiers texte
 author: Ludwig Chieng
 layout: default
 tags: linux unix debian ubuntu mint commandes terminal shell bash texte cat touch nano
 licence: CC-BY-SA Ludwig Chieng
 ---
 
-# Gérer les fichiers textes
+# Gérer les fichiers texte
 
 ## Éditeur de fichier texte
 
 * **gedit** sur Debian et Ubuntu
 * **xed** sur Mint
 
-On peut les lancer, au choix, depuis le menu démarrer ou depuis le terminal.
+On peut les lancer, au choix, depuis le menu démarrer ou depuis le terminal. Pour arrêter un programme lancé depuis le terminal, on utilise `Ctrl+C` (ou plutôt `^C`).
 
 Il est possible d'installer des éditeurs plus complets, mais ils sont donc plus gourmands en ressources :
 * **Atom** (très bien)
 * **Visual Studio Code** (mon préféré)
 
-## Manipuler les fichiers textes
+
+## Manipuler les fichiers texte
 
 ``` shell
 # Créer un fichier vide
@@ -47,6 +48,7 @@ $ ls -l > file3
 # Écrire le contenu d'un fichier texte dans le terminal
 $ cat file2
 ```
+
 
 ## Éditer depuis le terminal
 

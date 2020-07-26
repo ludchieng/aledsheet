@@ -63,8 +63,8 @@ Ces répertoires sont spécifiques à Debian, Ubuntu ou Mint. Sur d'autres distr
 * `/bin` les **fichiers exécutables vitaux** de Linux, des fichiers binaires (*binary*) illisibles pour nous, pauvres humain·e·s. (on n’y touche pas)
 * `/boot` le **noyau Linux** (*kernel*) pour le démarrage de l'ordinateur, image de disque RAM initiale, boot loader GRUB. (on n’y touche pas non plus)
 * `/etc` les fichiers de **configuration**. Si vous installez un serveur web, c'est sûrement ici que vous trouverez les fichiers pour le configurer.
-* `/home` le répertoire personnel des utilisateurs (ex. : `/home/rasputin`). C'est là qu'on range les documents privés type musiques, photos, etc.
+* `/home` le **répertoire personnel** des utilisateurs (ex. : `/home/rasputin`). C'est là qu'on range les documents privés type musiques, photos, etc.
 * `/lib` des fichiers qui sont utilisés par `/bin`. Ce sont en fait des bibliothèques de fonctions (*libraries*) qui sont utilisées par les différents programmes de l'ordinateur.
-* `/media` là où se « monte » (*mount*) les CD, clés USB ou autres périphériques en tout genre.
-* `/root` le répertoire personnel de l'utilisateur nommé « root ». À ne pas confondre avec la racine (*root*) `/`. Ce répertoire personnel n'est pas dans `/home` pour des raisons de sécurité.
+* `/media` là où se **montent** (*mount*) les CD, clés USB ou autres périphériques en tout genre.
+* `/root` le répertoire personnel de l'utilisateur nommé ***root*** (*super-utilisateur*). À ne pas confondre avec la racine (*root*) `/`. Ce répertoire personnel n'est pas dans `/home` pour des raisons de sécurité.
 * `/usr` les programmes des utilisateurs. C'est ici que se trouve *Firefox*, etc.

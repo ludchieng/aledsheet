@@ -13,6 +13,32 @@
       ]
     },
     {
+      "label": "Energie-Climat",
+      "items": [
+        {
+          "label": "Dérèglement climatique",
+          "url": "/energie-climat/dereglement-climatique/"
+        },
+        {
+          "label": "Gaz à effet de serre",
+          "url": "/energie-climat/gaz-a-effet-de-serre/"
+        },
+        {
+          "label": "Énergie",
+          "url": "/energie-climat/energie/"
+        }
+      ]
+    },
+    {
+      "label": "Audiovisuel",
+      "items": [
+        {
+          "label": "Fiction",
+          "url": "/audiovisuel/fiction/"
+        }
+      ]
+    },
+    {
       "label": "Dev logiciel",
       "items": [
         {
@@ -54,8 +80,8 @@
           "url": "/linux-debian/gerer-logiciels/"
         },
         {
-          "label": "Gérer les fichiers textes",
-          "url": "/linux-debian/gerer-fichiers-textes/"
+          "label": "Gérer les fichiers texte",
+          "url": "/linux-debian/gerer-fichiers-texte/"
         },
         {
           "label": "Manipuler les fichiers",
@@ -76,23 +102,6 @@
         {
           "label": "SSH",
           "url": "/linux-debian/ssh/"
-        }
-      ]
-    },
-    {
-      "label": "Energie-Climat",
-      "items": [
-        {
-          "label": "Dérèglement climatique",
-          "url": "/energie-climat/dereglement-climatique/"
-        },
-        {
-          "label": "Gaz à effet de serre",
-          "url": "/energie-climat/gaz-a-effet-de-serre/"
-        },
-        {
-          "label": "Énergie",
-          "url": "/energie-climat/energie/"
         }
       ]
     },

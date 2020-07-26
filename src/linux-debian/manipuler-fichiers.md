@@ -9,6 +9,9 @@ licence: CC-BY-SA Ludwig Chieng
 
 # Manipuler les fichiers
 
+Attention ! Pas de retour arrière `Ctrl+Z` possible à ma connaissance.
+
+
 ## Déplacer et renommer
 
 ``` shell
@@ -36,12 +39,14 @@ Attention ! Renommer écrase le fichier existant.
 $ mv file3 Documents/file888
 ```
 
+
 ## Copier
 
 ``` shell
 # Copier "file0" dans le répertoire "Documents"
 $ cp file0 Documents/
 ```
+
 
 ## Supprimer
 
@@ -56,6 +61,7 @@ $ rm -rf "Documents/projet raté/"
 ```
 
 Les options `-r` et `-f` exécutent la suppression de manière **récursive** (supprime le répertoire **et son éventuel contenu**) et **forcée** (ignore les éléments à supprimer qui sont inexistants).
+
 
 ## Le joker `*`
 
@@ -72,9 +78,10 @@ $ cp *.js Documents/
 $ rm -rf "Documents/projet raté/*"
 ```
 
+
 ## Verbose
 
-L'option `-v` pour `mv`, `cp` ou `rm` permet d'écrire dans le terminal, un « rapport » des actions qui ont été mené. C'est particulièrement utile quand on utilise le joker `*`.
+L'option `-v` pour `mv`, `cp` ou `rm` permet d'écrire dans le terminal, un « rapport » des actions qui ont été menées. C'est particulièrement utile quand on utilise le joker `*`.
 
 ``` shell
 $ rm -rfv ~/Documents/projet/

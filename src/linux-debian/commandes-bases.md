@@ -15,7 +15,7 @@ Les commandes servent par exemple à :
 * explorer la **liste des fichiers** de l'ordinateur
 * créer, couper, copier, coller ou supprimer des **fichiers** ou des **répertoires**
 * démarrer, stopper ou redémarrer des **services** (ex. : un serveur web)
-* éditer des **fichiers textes** (ex. : pour changer la configuration d'un service)
+* éditer des **fichiers texte** (ex. : pour changer la configuration d'un service)
 * **télécharger** des fichiers (ex. : via HTTP, FTP, IMAP...)
 * **installer** un logiciel
 * ajouter un **utilisateur**
@@ -23,6 +23,7 @@ Les commandes servent par exemple à :
 * ...
 
 On peut faire certaines de ces choses sans taper une seule commande (ex. : déplacer un répertoire avec un bon `Ctrl+X`, `Ctrl+V`). Alors, à quoi bon ? En fait, les commandes ont un intérêt pratique, surtout quand il s'agit de gérer un ordinateur **à distance** ou d'**automatiser des tâches** (genre une liste de commandes les unes à la suite des autres). Et puis, certaines actions ne peuvent se faire **que par des commandes**.
+
 
 ### Le terminal
 
@@ -34,7 +35,7 @@ Si vous ouvrez le terminal, vous verrez marqué quelque chose comme :
 rasputin@wololo:~$ █
 ```
 
-Quand on exécute une commande, on le fait en tant qu'**utlisateur** sur une **machine** donnée. Dans l'exemple du dessus, c'est l'utilisateur `rasputin` sur la machine `wololo`. Il est possible de lancer une commande en tant qu'un autre utilisateur, voire même d'exécuter une commande sur une machine **à distance** ! Eh oui, pour administrer un serveur web c'est plus pratique de le faire à distance. Ça veut dire que depuis le terminal d'un ordinateur `A`, vous exécutez des commandes sur un ordinateur `B`.
+Quand on exécute une commande, on le fait en tant qu'**utlisateur** sur une **machine** donnée. Dans l'exemple du dessus, c'est l'utilisateur `rasputin` sur la machine `wololo`. Il est possible de lancer une commande en tant qu'un autre utilisateur, voire même d'exécuter une commande sur une machine **à distance** ! Eh oui, pour administrer un serveur web c'est plus pratique de le faire à distance. Ça veut dire que depuis le terminal d'un ordinateur `A`, vous exécutez des commandes sur un ordinateur `B` (c'est le SSH).
 
 Autres exemples qu'on rencontre assez souvent pour des machines distantes :
 
@@ -49,6 +50,7 @@ rasputin@wololo:~$ scp -P 10124 -r './*.js' rasptn@54.98.125.33:~/site_oueb█
 # transfère des fichiers js d'une machine appelée "wololo" vers une
 # autre, accessible à l'IP 54.98.125.33 par le port réseau 10124
 ```
+
 
 ### On tape quoi dukou ?
 

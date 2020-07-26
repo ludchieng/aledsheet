@@ -24,6 +24,7 @@ Bureau  Documents  Images  Modèles  Musique  Public  Téléchargements  Vidéos
 
 Les répertoires et les fichiers sont affichés avec des couleurs différentes.
 
+
 ## Plus de détails ?
 
 ``` shell
@@ -58,7 +59,7 @@ Dans `r-x`, le tiret signifie qu'il n'y a pas le droit d'écriture. Le bloc `rwx
 * les utilisateurs associés au **groupe** (*group*) qui est assigné à l'élément,
 * les **autres** utilisateurs (*others*).
 
-Exemple de permissions : `rwxr-x---`, où le propriétaire a tous les droits sur l'élément, les membres du group peuvent seulement le lire et l'exécuter et les autres n'ont aucun droit.
+Exemple de permissions : `rwxr-x---`, où le propriétaire a tous les droits sur l'élément, les membres du groupe peuvent seulement le lire et l'exécuter et les autres n'ont aucun droit.
 
 Les permissions sont un ensemble de concepts assez technique qu'on ne détaillera pas pour le moment. S'il est impossible d'exécuter un fichier pour cause de `Permission non accordée`, retenter la commande avec `sudo` devant (ex. : `sudo mkdir nudes`). La commande demandera le mot de passe administrateur (*super-utilisateur* ou *root*).
 
@@ -70,12 +71,14 @@ Les colonnes suivantes représentent :
 * la date et heure des dernières modifications
 * le nom de l'élément
 
+
 ## Les fichiers cachés
 
 ``` shell
 # Lister les fichiers et répertoires y compris ceux qui sont cachés
 $ ls -a
 ```
+
 
 ## Le détail des fichiers cachés
 
@@ -86,6 +89,7 @@ $ ls -l -a
 # Lister les fichiers et répertoires y compris cachés avec les détails
 $ ls -la
 ```
+
 
 ## Les autres options
 
