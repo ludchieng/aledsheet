@@ -13,9 +13,9 @@ Linux peut être installé sur un ordinateur en substitution de Windows ou de Ma
 * **en dual-boot**. Cela signifie que l'ordinateur « possède » deux OS (systèmes d'exploitation). Au démarrage, on choisit de démarrer soit sous Linux, soit sous Windows. Mais pas les deux en même temps.
 * **dans une machine virtuelle**. Dans ce cas, il y a un OS, appelé « hôte », sur lequel on a lancé un programme qui fait tourner un OS « invité ». On peut avoir par exemple Windows 10 en OS hôte qui fait tourner Linux en OS invité par le biais du logiciel *Oracle VM VirtualBox*.
 
-La VM (machine virtuelle) permet de « faire tourner » un OS dans un autre OS, en même temps. On peut par exemple, coder sous Linux et faire du graphisme sur Photoshop sous Windows. Plutôt pratique, car la suite Adobe n'est pas compatible avec Linux. Il existe néanmoins des alternatives à ces logiciels sous Linux. Le problème majeur c'est les performances de l'ordinateur, forcément, puisqu'il y a deux OS qui fonctionnent parallèlement. On est vite limité en RAM (un OS invité type Ubuntu en requiert minimum 2500MB). De plus, il y a une latence entre un clic de souris ou une frappe de clavier et sa « transmission » vers l'hôte invité ; ce qui peut être gênant.
+La VM (machine virtuelle) permet de « faire tourner » un OS dans un autre OS, en même temps. On peut par exemple, coder sous Linux et faire du graphisme sur Photoshop sous Windows. Plutôt pratique, car la suite Adobe n'est pas compatible avec Linux. Il existe néanmoins des alternatives à ces logiciels sous Linux. Le problème majeur : les performances de l'ordinateur, forcément, puisqu'il y a deux OS qui fonctionnent parallèlement. On est vite limité en RAM (un OS invité type Ubuntu en requiert minimum 2500MB). De plus, il y a une petite latence entre un clic de souris ou une frappe de clavier et sa « transmission » vers l'hôte invité ; ce qui peut être déstabilisant.
 
-Le dual-boot évite tous ces inconvénients, mais ne permet pas de switcher rapidement entre les deux OS. Il est parfois délicat à mettre en place sur certains PC.
+Le dual-boot évite tous ces inconvénients, mais ne permet pas de switcher rapidement entre les deux OS. Il est parfois délicat à mettre en place sur certains ordinateurs.
 
 
 ## Checklist VM

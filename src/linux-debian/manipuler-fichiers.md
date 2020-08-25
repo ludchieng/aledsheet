@@ -51,7 +51,7 @@ $ cp file0 Documents/
 ## Supprimer
 
 ``` shell
-# Supprimer "file0"
+# Supprimer "file0" : "rm" → "remove"
 $ rm file0
 ```
 

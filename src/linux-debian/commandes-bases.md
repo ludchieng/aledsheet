@@ -71,7 +71,7 @@ $ mkdir nudes
 
 Là c'est tout pareil, `mkdir` est le nom de la commande et `nudes` est un argument.
 
-En fait, l'argument c'est un élément qu'on donne à la commande pour qu'elle réalise sa fonction. `mkdir` ne sait pas quel nom donner au nouveau répertoire tant qu'on ne lui a pas transmis. De même `echo` ne sais pas quoi écrire dans le terminal tant qu'on ne lui a pas donner le ou les mots à écrire.
+En fait, l'argument c'est un élément qu'on donne à la commande pour qu'elle réalise sa tâche. `mkdir` ne sait pas quel nom donner au nouveau répertoire tant qu'on ne lui a pas transmis. De même `echo` ne sais pas quoi écrire dans le terminal tant qu'on ne lui a pas donner le ou les mots à écrire.
 
 ``` shell
 # Supprimer un répertoire : "rmdir" → "remove directory"

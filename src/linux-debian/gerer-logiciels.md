@@ -12,7 +12,7 @@ licence: CC-BY-SA Ludwig Chieng
 La commande `sudo` qui permet d'exécuter une autre commande en tant qu'administrateur (*super-utilisateur* ou *root*). Par exemple, c'est nécessaire pour exécuter `apt`. Il faudra saisir le mot de passe juste après avoir appuyé sur `Entrée ↲`. Sur Mint, en tapant le mot de passe, les caractères sont symbolisés par des « \*\*\*\*\* ». Sur Ubuntu, aucun caractère n'apparaît.
 
 
-## Mise à jour les paquets
+## Mettre à jour les paquets
 
 ``` shell
 # Récupérer la liste des noms et le numéro de version de tous les paquets

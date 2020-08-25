@@ -11,6 +11,7 @@ licence: CC-BY-SA Ludwig Chieng
 
 ``` shell
 # Se déplacer dans le répertoire "local" contenu dans "usr"
+# "cd" → "change directory"
 $ cd /usr/local
 ```
 
