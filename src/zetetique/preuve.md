@@ -4,7 +4,7 @@ title: Preuve
 author: Ludwig Chieng
 layout: default
 quality: 5
-tags: zetetique preuve
+tags: zététique preuve
 licence: CC-BY-SA Ludwig Chieng
 ---
 

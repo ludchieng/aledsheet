@@ -3,7 +3,7 @@ id: dereglement-climatique
 title: Dérèglement climatique
 author: Ludwig Chieng
 layout: default
-tags: energie climat ges gaz effet de serre fossiles changement dereglement climatique
+tags: énergie climat ges gaz effet de serre énergies combustibles fossiles changement dérèglement climatique
 ---
 
 # Dérèglement climatique
@@ -21,12 +21,12 @@ Cette déstabilisation du climat entraîne des **modifications profondes**, souv
 
 ### Facteurs climatiques
 
-Plusieurs éléments ont une influence sur le climat :
+Plusieurs éléments ont une influence sur le climat :
 
 * **Astronomiques**. Soleil, inclinaison de l'axe de rotation terrestre (responsable des entrées en glaciation)... → prend place sur une très grande échelle de temps
 * **Géologiques**. Position des continents, volcanisme (diffusion d'aérosols sulfatés)...
 * **Intrinsèques**. Atmosphère (composition chimique), hydrosphère (océans, lacs, rivières et nappes sous-terraines), cryosphère (banquises et glaciers), biosphère (le vivant)...
-* **Anthropiques (humains)**. GES (gaz à effet de serre), modification de l'albédo terrestre (déforestation, )...
+* **Anthropiques (humains)**. surplus de GES (gaz à effet de serre), modification de l'albédo terrestre (déforestation...)
 
 
 ### Gaz à effet de serre (GES) ou *greenhouse gases* (GHG)
@@ -37,28 +37,51 @@ On appelle l'effet de serre (*greenhouse effect*) un phénomène physique lié �
 
 En fait, le problème, ce n'est pas l'effet de serre ; c'est le **surplus d'effet de serre causé par l'activité humaine**. La distinction est importante.
 
-Contribution à l'effet de serre des GES émis par les activités humaines :
-* 76% : **CO~2~ (dioxyde de carbone)**. Résultant de la combustion des énergies fossiles (pétrole charbon, gaz), de la combustion du bois après déforestation, de la fabrication du ciment...
-* 16% : **CH~4~ (méthane)**. Émis par les fuites de gaz (extraction, transport et utilisation des énergies fossiles), la décomposition organique anaérobie (en milieu privé d'oxygène) : par l'élevage, les zones humides (marécages, rizières...), les décharges...
-* 6% : **N~2~O (protoxyde d'azote)**. Provoqué, en agriculture, par l'épandage d'engrais azotés sur les cultures, et dans l'industrie, pour la production notamment de l'acide nitrique et de l'acide adipique...
-* 2% : **Gaz fluorés**. Présents dans les équipements du froid (réfrigérateurs, climatisation et autres systèmes de refroidissement), les processus de gonflement de mousse (isolation bâtiment), les extincteurs...
+Contribution à l'effet de serre des GES émis par les activités humaines :
+* 76% : **CO~2~ (dioxyde de carbone)**. Résultant de la combustion des énergies fossiles (pétrole charbon, gaz), de la combustion du bois après déforestation, de la fabrication du ciment...
+* 16% : **CH~4~ (méthane)**. Émis par les fuites de gaz (extraction, transport et utilisation des énergies fossiles), la décomposition organique anaérobie (en milieu privé d'oxygène) : par l'élevage, les zones humides (marécages, rizières...), les décharges...
+* 6% : **N~2~O (protoxyde d'azote)**. Provoqué, en agriculture, par l'épandage d'engrais azotés sur les cultures, et dans l'industrie, pour la production notamment de l'acide nitrique et de l'acide adipique...
+* 2% : **Gaz fluorés**. Présents dans les équipements du froid (réfrigérateurs, climatisation et autres systèmes de refroidissement), les processus de gonflement de mousse (isolation bâtiment), les extincteurs...
 * ...
 
 La majorité du surplus d'effet de serre est causé par les **combustibles fossiles** (pétrole, charbon et gaz). Hélas, pour régler le problème, on ne peut pas se limiter à se concentrer sur un seul domaine. Gardons en tête que tous les secteurs émettent des GES. L'effort doit donc être soutenu par tout le monde.
 
+En anglais : *carbon dioxyde* (CO~2~), *methane* ou *natural gas* ou *fossil gas* (CH~4~), *nitrous oxyde* (N~2~O)
+
 
 ### Conséquences notables
 
-**Les changements déjà observés**
-
-* En 2020, la température moyenne à la surface du globe est 1.2°C plus élevée, comparée à la période 1850-1900 (période préindustrielle).
-* La cryosphère (couverture de neige et de glace) a diminué.
-* Le niveau des mers s'est élevé
-* Les espèces animales se comportent différemment (aire de répartition, activités saisonières, mouvements migratoires...)
-* Baisse du rendement des cultures agricoles
-* Acidification des océans (perturbation du cycle du carbone et de l'azote, effets sur les coraux, les poissons et les phytoplanctons)
+**Au niveau mondial**
+* Température moyenne de surface 1.2°C plus élevée (2020) comparée à la période 1850-1900 (période préindustrielle)
+* Diminution de la cryosphère (dont pergélisol ou *permafrost*)
+* Traumatismes des écosystèmes (perte des deux tiers des animaux sauvages depuis 40 ans)
 * Intensification des phénomènes météos (extrêmes de température, précipitations et vents)
+* Acidification des océans (perturbation du cycle du carbone et de l'azote, effets sur les coraux, les poissons et les phytoplanctons)
+* Baisse des rendements agricoles
+
+**Bassin méditerranéen**
+* Augmentation en intensité et en fréquence des chaleurs et sécheresses
+* Mauvaise répartition des précipitations entraînant une baisse des rendements agricoles et de l'insécurité alimentaire (surtout au Maghreb)
+* Désertification et pertes de zones humides (évapotranspiration)
+* Stress hydrique et pénuries d'eau (Maghreb, Proche-Orient, Europe du Sud et France)
 * Augmentation de l'occurrence de feux de forêt
+* Arrivée d'espèces parasites (moustiques, yenyens...) touchant Homo sapiens et animaux d'élevage
+
+**Zones arctique et antarctique**
+* Réchauffement plus intense et plus rapide (surtout en Arctique)
+* Fonte de l'Inlandsis du Groenland (7 m d'élévation des mers)
+* Fonte de l'Inlandsis Ouest-Antarctique (3-4 m d'élévation des mers)
+
+**Zones littorales et insulaires**
+* Élévation du niveau des mers
+* Cyclones tropicaux plus violent
+* Menaces sur les zones agricoles (majoritairement sur les littoraux)
+* Menaces sur les zones industrialo-portuaires (interfaces commerciales entre les pays)
+* Menaces sur les installations en bord de mer (centrales électrique thermique...)
+
+**Zones équatoriales et tropicales**
+* Fortes chaleurs pouvant rendre la zone inhabitable pendant les périodes chaudes de l'année
+* Très fortes précipitations causant des inondations destructrices. Notamment en Indonésie et au Pérou-Équateur (phénomène El-Niño)
 
 
 ## Encore plus de détails
@@ -72,15 +95,15 @@ Cette température donne lieu majoritairement à du rayonnement type infrarouge 
 En pratique, le bilan radiatif de la Terre est plus complexe. Il faut aussi raisonner en plusieurs « couches » atmosphèriques afin de calculer la part du rayonnement terrestre qui est absorbée par les GES, et celle qui s'extirpe du système Terre.
 
 
-### Comparaison des GES avec le potentiel de réchauffement global
+### Comparaison des GES grâce au potentiel de réchauffement global
 
 Une tonne de N~2~O provoque un certain effet de serre. Combien de tonnes de CO~2~ faut-il pour réaliser ce même effet de serre ?
 
-Problème : Le N~2~O n'a pas la même durée de vie dans l'atmosphère que le CO~2~ (absorption progressive par les processus biogéochimiques de la Terre). Il faut donc comparer les GES sur une durée donnée. La réponse varie en fonction de cet horizon temporel donné.
+Problème : Le N~2~O n'a pas la même durée de vie dans l'atmosphère que le CO~2~ (absorption progressive par les processus biogéochimiques de la Terre). Il faut donc comparer les GES sur une durée donnée. La réponse varie en fonction de cet horizon temporel donné.
 
 Une tonne de N~2~O provoque un certain effet de serre sur 100 ans. Combien de tonnes de CO~2~ faut-il pour réaliser ce même effet de serre sur 100 ans ?
 
-Réponse : Environ 298. Sur une période de 100 ans, 1 tonne de N~2~O provoque la même quantité d'effet de serre que 298 tonnes de CO~2~.
+Réponse : Environ 298. Sur une période de 100 ans, 1 tonne de N~2~O provoque la même quantité d'effet de serre que 298 tonnes de CO~2~.
 
 Mais c'est beaucoup ! Cependant, comme nous émettons beaucoup plus de CO~2~, le protoxyde d'azote reste minoritaire dans sa participation à l'effet de serre.
 
@@ -116,3 +139,45 @@ $$
 $$
 
 On aditionne tous les résultats et on obtient la quantité d'emission de GES de l'entreprise en équivalent CO~2~.
+
+
+## Aller plus loin
+
+### Lire le 5e rapport d'évaluation du GIEC
+
+GIEC : Groupe d’Experts Intergouvernemental sur l’Évolution du Climat \
+*IPCC* : *Intergovernmental Panel on Climate Change* \
+*AR5* : *Assessment Report 5*
+
+C'est un organisme intergouvernemental de l'ONU chargé de faire la synthèse (méta-analyse) des **études scientifiques sur le climat**. Le GIEC ne traite que des questions climatiques, gardons à l'esprit que ce n'est qu'une partie du problème.
+
+Il publie, en 2014, le **[5e rapport d'évaluation](https://www.ipcc.ch/assessment-report/ar5)** (**AR5**), est rédigé par trois **groupes de travail** (*working group* ou *WG*). Le 4e est paru en 2007. Le 6e est prévu pour 2022.
+
+On peut difficilement lire l'intégralité du rapport (3500+ pages). En pratique, chacun·e lit le résumé et éventuellement les chapitres qui l'intéresse, pour avoir plus de détails. Pour le·la citoyen·ne lambda, le document à consulter est celui-ci : **[Résumés des éléments scientifiques](https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SummaryVolume_FINAL_FRENCH.pdf)** ; et particulièrement la FAQ à partir de la page 120.
+
+Le rapport complet le plus important est **The Physical Science Basis (WG1)** car il s'appuie sur une démarche scientifique. Les rapports suivants traitent d'économie et de social en faisant des hypothèses plus discutables. Leurs conclusions sont donc moins sûres même s'ils soulèvent des éléments intéressants.
+
+**Documents complets :** \
+**[WG1 – The Physical Science Basis](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_all_final.pdf)**. 1552 pages.  \
+**[WG2 – Impacts, Adaptation, and Vulnerabilities : Global and Sectoral Aspects](https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIAR5-PartA_FINAL.pdf)**. 1150 pages. \
+**[WG2 – Impacts, Adaptation, and Vulnerabilities : Regional Aspects](https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIAR5-PartB_FINAL.pdf)**. 696 pages. \
+**[WG3 – Mitigation of Climate Change](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_full.pdf)** (**WG3**). 1454 pages.
+
+**Document de synthèse** : \
+**[Synthesis Report (SYR)](https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full_fr.pdf)**. 180 pages.
+
+**Résumés à l'intention des décideurs** (*Summary for Policymakers* ou *SPM*) : \
+**[WG1](https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SummaryVolume_FINAL_FRENCH.pdf)**. 28 pages. \
+**[WG2](https://www.ipcc.ch/site/assets/uploads/2018/03/ar5_wgII_spm_fr-2.pdf)**. 40 pages. \
+**[WG3](https://www.ipcc.ch/site/assets/uploads/2018/03/WG3AR5_SPM_brochure_fr-1.pdf)**. 40 pages. \
+**[SYR](https://www.ipcc.ch/site/assets/uploads/2018/02/AR5_SYR_FINAL_SPM_fr.pdf)**. 33 pages.
+
+**Résumés techniques** (*Technical Summary* ou *TS*) : \
+**[WG1](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_TS_FINAL.pdf)**. 84 pages. \
+**[WG2](https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIAR5-TS_FINAL.pdf)**. 60 pages. \
+**[WG3](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_technical-summary.pdf)**. 78 pages.
+
+Le GIEC émet des rapports dits « spéciaux » entre chaque « gros » rapport d'évaluation :
+* **Réchauffement planétaire de 1.5°C** | [Complet](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_Low_Res.pdf) | [Résumés et FAQ](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/09/SR15_Summary_Volume_french.pdf) | Traitant des conséquences d’un réchauffement planétaire de 1,5 °C par rapport aux niveaux préindustriels (1850-1900). 
+* **Changements climatique et terres émergées** | [Complet](https://www.ipcc.ch/site/assets/uploads/sites/4/2020/06/SRCCL_SPM_fr.pdf) | [Résumé aux décideurs](https://www.ipcc.ch/site/assets/uploads/sites/4/2020/06/SRCCL_SPM_fr.pdf) | [Résumé technique](https://www.ipcc.ch/site/assets/uploads/2019/11/03_Technical-Summary-TS.pdf) | La désertification, la dégradation des sols, la gestion durable des terres, la sécurité alimentaire et les flux de gaz à effet de serre dans les écosystèmes terrestres.
+* **Océan et Cryosphère** | [Complet](https://www.ipcc.ch/site/assets/uploads/sites/3/2019/12/SROCC_FullReport_FINAL.pdf) | [Résumé aux décideurs](https://www.ipcc.ch/site/assets/uploads/sites/3/2020/07/SROCC_SPM_fr.pdf) | [Résumé technique](https://www.ipcc.ch/site/assets/uploads/sites/3/2019/11/04_SROCC_TS_FINAL.pdf) |
