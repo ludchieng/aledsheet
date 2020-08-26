@@ -1,4 +1,9 @@
 <div class="mb-2">
-  Tags : {{ tags }}
+  {% set tagsArr = tags | split(' ') %}
+  {% for t in tagsArr %}
+    <span class="meta-tag">
+      {{ t }}
+    </span>
+  {% endfor %}
 </div>
 <hr/>

@@ -50,6 +50,10 @@ body {
   }
 }
 
+.article .meta-tag {
+    @apply bg-gray-800;
+}
+
 .r-anchor-background {
   @apply bg-gray-850;
 }

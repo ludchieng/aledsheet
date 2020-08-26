@@ -96,6 +96,15 @@ module.exports = eleventyConfig => {
                     .trim();
     });
 
+    eleventyConfig.addFilter('log', value => {
+        console.log(value);
+    });
+
+    eleventyConfig.addFilter('split', (str, separator) => {
+        if (str === undefined) return;
+        return str[0].split(separator)
+    });
+
     // eleventyConfig.addWatchTarget("js/");
     // eleventyConfig.addWatchTarget("css/");
 

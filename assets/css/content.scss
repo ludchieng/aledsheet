@@ -62,6 +62,10 @@
         @apply -mx-4 rounded overflow-hidden block;
     }
 
+    .meta-tag {
+        @apply inline-block px-1 mr-1 mb-1 rounded-lg;
+    }
+
     .r-version-badge {
         @apply text-xs p-px float-right;
     }
