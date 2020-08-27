@@ -28,10 +28,12 @@ Résoudre ce problème c'est remettre en question deux siècles et demi de **dé
 #### C'est quoi l'énergie concrètement ?
 L'énergie c'est la mesure de la capacité à transformer quelque chose. L'énergie c'est la **quantification de la transformation du monde**. Chaque transformation qui a lieu dans l'univers implique de l'énergie. Chaque activité économique implique de l'énergie.
 * Plus on « utilise » de l'énergie, plus on transforme le monde.
-* Une activité « propre » est une activité qui « laisse en l'état », c'est-à-dire qui n'utilise pas d'énergie. **Une activité propre n'existe donc pas**.
-* Une activité « verte » est une activité dont les pollutions nous paraissent acceptables.
+* Une activité « propre » est une activité qui « laisse en l'état », c'est-à-dire qui n'utilise pas d'énergie, qui n'effectue aucune transformation. **Une activité propre n'existe donc pas**.
+* Une activité « verte » est une activité dont les pollutions nous paraissent acceptables. Son caractère « vert » est donc **subjectif** car c'est nous qui choississons ce qui est acceptable ou non et **peut varier** avec le temps et avec l'intensité de cette activité.
 
-L'énergie c'est **une seule grandeur pour quantifier des phénomènes variés** (chaleur, mouvement, chimie...).
+En physique, un transfert d'énergie entre deux systèmes prend deux formes : **chaleur** (intensité de l'agitation des molécules) ou **travail** (intensité de la variation de vitesse d'un objet).
+
+L'énergie c'est **une seule grandeur pour quantifier des phénomènes variés** (réaction chimique qui émet de la chaleur, émission de rayonnements électromagnétiques, déplacement d'un corps...).
 
 
 #### À quoi nous sert l'énergie ?
@@ -49,44 +51,53 @@ Ne pas confondre **mix énergétique** et **mix électrique**. L'électricité e
 
 En France, le nucléaire représente 75% de la production électrique (du mix électrique) mais seulement 40% de la consommation d'énergie primaire (mix énergétique).
 
-Le problème des GES (gaz à effet de serre), en France ne provient pas de l'électricité qui est très peu émettrice, mais bien des combustibles fossiles (qui n'interviennent que très marginalement dans la production électrique).
+Le problème des GES (gaz à effet de serre), en France, ne provient pas de l'électricité qui est très peu émettrice, mais bien des combustibles fossiles (qui n'interviennent que très marginalement dans la production électrique).
 
 En France, **la transition énergétique pour le climat ne doit donc pas se focaliser sur l'électricité** mais sur les secteurs émetteurs de GES (ex. : le transport...). Il peut y avoir d'autres arguments en faveur de la modification de la production électrique en France mais **pas au prétexte des émissions de GES**.
 
 
 #### J'ai encore du mal à voir la différence entre électricité et énergie. Dans quels cas y a-t-il de l'énergie qui n'est pas de l'électricité ?
-Se chauffer au **bois** de cheminée, se chauffer au **fioul** domestique, faucher du blé avec les **muscles** de ses bras, moissonner une récolte avec une moissonneuse-batteuse au **diesel**, se déplacer à **cheval**, rouler à l'**essence**, prendre un train au **diesel**, approvisionner un supermarché avec des camions au **gazole**, partir en vacances à Bali en avion au **kérosène**, profiter d'une eau chauffé au **gaz**, griller du boeuf au **charbon**, cuisiner au **gaz**, chauffer son eau au **solaire** thermique, se chauffer grâce à la **géothermie**, propulser son voilier quand il y a du **vent** ou son porte-conteneurs de marchandise au **mazout** voire son porte-avions au **nucléaire**, moudre son grain au moulin à **vent** ou au moulin à **eau**...
+Se chauffer au **bois** de cheminée, se chauffer au **fioul** domestique, faucher du blé avec les **muscles** de ses bras, moissonner une récolte avec une moissonneuse-batteuse au **diesel**, former du verre chauffé au **charbon**, faire du ciment dans un four au **charbon**, couper du bois avec une hache et ses **bras**, couper du bois avec une tronçonneuse à **essence**, se déplacer à **cheval**, rouler à l'**essence**, prendre un train au **diesel**, approvisionner un supermarché avec des camions au **gazole**, partir en vacances à Bali en avion au **kérosène**, profiter d'une eau chauffée au **gaz**, griller du boeuf au **charbon**, cuisiner au **gaz**, chauffer son eau au **solaire** thermique, se chauffer grâce à la **géothermie**, propulser son voilier quand il y a du **vent** ou son porte-conteneurs de marchandise au **mazout** voire son porte-avions au **nucléaire**, moudre son grain au moulin à **vent** ou au moulin à **eau**...
 
 
-#### Quel rapport avec le climat du coup ?
+#### Quel rapport entre énergies fossiles et climat du coup ?
 L'extraction, le transport et l'utilisation des combustibles fossiles (pétrole, charbon et gaz naturel) sont responsables de **65% du surplus d'effet de serre** d'origine humaine.
 
 
 #### Qu'est-ce qu'on attend pour se débarasser du pétrole, du charbon et du gaz naturel ? Pourquoi ça bloque ?
 LES LOBBIES. Non, on ne peut malheureusement pas tout expliquer par les lobbies. Guillotiner les lobbyistes ne nous sortirait même pas d'affaire. Se passer des énergies fossiles c'est entamer une **transition énergétique** qu'on appelle la **décarbonation** de l'économie.
 
-Et le problème a des racines bien plus profondes qu'on ne le croit. Aujourd'hui, dans les pays dits développés, nous profitons à outrance du **confort** que nous apporte les énergies fossiles, et nous ne voulons pas nous en séparer. Les pays dits en développement demandent pourquoi, eux aussi, n'auraient-ils pas le droit d'utiliser des **énergies carbonées** dans le but d'étendre leur économie et leur niveau de vie.
+Et le problème a des racines bien plus profondes qu'on ne le croit. Aujourd'hui, dans les pays dits « développés », nous profitons à outrance du **confort** que nous apporte les énergies fossiles, et nous ne voulons pas nous en séparer. Les pays dits en « développement » demandent pourquoi, eux aussi, n'auraient-ils pas le droit d'utiliser des **énergies carbonées** dans le but d'étendre leur économie et leur niveau de vie.
 
 
 ### Importance des énergies fossiles dans nos sociétés
 
 #### Quel confort nous apporte les énergies fossiles ?
+Comparons énergie fossile et énergie musculaire. Brûler un litre d'essence équivaut à courir quatre marathons. Dans les deux cas, c'est la même quantité d'énergie qui est en jeu. [[calcul]](/energie-climat/sources-et-calculs/#br%C3%BBler-un-litre-d'essence-ou-courir-quatre-marathon%2C-m%C3%AAme-%C3%A9nergie)
+
+Les français·e·s profitent du travail des machines. Ces machines consomment l'équivalent énergétique de 2390 L d'essence par habitant et par an. C'est-à-dire l'énergie musculaire développée en 600 marathons. [[calcul]](/energie-climat/sources-et-calculs/#les-fran%C3%A7ais%C2%B7e%C2%B7s-profitent-du-travail-des-machines-consommant-l'%C3%A9quivalent-%C3%A9nerg%C3%A9tique-de-2390-l-d'essence-par-habitant-et-par-an%2C-soit-l'%C3%A9nergie-musculaire-d%C3%A9velopp%C3%A9e-en-600-marathons)
+
+**L'énergie musculaire, celle que nous utilisions majoritairement il y a quelques siècles, est devenue marginale** dans notre société de machines. Autrement dit, nous jouissons du confort que nous ont offert les machines et les **combustibles fossiles** qui les alimentent.
+
+Quelques illustrations pour comprendre cette idée de « confort » :
+* **Nous cultivons nos céréales avec des moissonneuses-batteuses**. Les combustibles fossiles nous permettent de pouvoir manger des légumes, des fruits, des céréales, de la viande, de boire du lait, du jus de fruit chaque jour sans avoir besoin de mettre les pieds dans un champ de culture (pour la plupart d'entre nous). Traditionnellement, on utilisait une faux ou une faucille. Il faut au moins 40 ouvrier·ère·s pour remplacer une moissonneuse [[source]](https://www.persee.fr/doc/reco_0035-2764_1953_num_4_5_406995), et au moins 1 âne (traction animale) et 3 ouvrier·ère·s pour battre la céréale avec une batteuse traditionnelle. En France, en 1789, les 67% de la population vivaient de l'agriculture ; seulement 1.5% aujourd'hui [[sources]](http://localhost:8080/energie-climat/sources-et-calculs/#part-des-agriculteur%C2%B7trice%C2%B7s-parmi-la-population-fran%C3%A7aise-%3A-67-%25-en-1789-%3A-1.5%25-en-2014-(1.7%25-avec-saisonniers)). Les machines cultivent plus vite qu'Homo sapiens et pour moins cher (même quand il est réduit en esclavage). Au début du XXe siècle, les ouvrier·ère·s sortent des champs pour rentrer dans l'usine pour manufacturer ces machines.
+* **Remplaçons les ouvrier·ère·s industriel·le·s par des machines**.
 
 
-#### Il ne suffit pas de remplacer les fossiles par des renouvelables ?
-Alors, ne mélangeons pas tout, c'est bien plus compliqué que cela. Premièrement, les énergies renouvelables regroupent tout un tas de formes d'énergie très différentes qui ne se valent pas et dont l'appelation est parfois trompeuse. Ce sujet mérite une fiche à lui seul.
+#### Pourquoi remplacer les fossiles par des renouvelables n'est-il pas aussi simple ?
+Il est très difficile de substituer complètement les fossiles avec des renouvelables voire même avec tout autre type d'énergie comme le nucléaire. La raison est simple : les combustibles fossiles sont à la fois **très commodes d'utilisation** et **très dense en énergie**. De plus, ils interviennent dans de **nombreux cas d'utilisation**, là où, parfois, les énergies renouvelables ne peuvent pas (ou très difficilement) être mis en oeuvre (ex. : le transport, l'industrie lourde...).
 
-Deuxièmement, il est très difficile de substituer complètement les fossiles avec des renouvelables voire même avec tout autre type d'énergie comme le nucléaire. La raison est simple : les combustibles fossiles sont à la fois très commodes d'utilisation et très dense en énergie.
+*Important : les énergies renouvelables regroupent tout un tas de formes d'énergie très différentes qui ne se valent pas et dont l'appelation est parfois trompeuse. Ce sujet mérite une fiche à lui seul.*
 
 
 #### Je reste quand même sur ma faim avec les renouvelables. On peut expliquer ce qui ne va pas rapidement ?
 Les énergies renouvelables (EnR) se caractérisent par un renouvellement assez rapide pour qu'on puisse **les considérer comme inépuisables**.
 
-Les énergies renouvelables peuvent être une solution. Néanmoins, le fait qu'elles soient renouvelables **n'est pas une condition suffisante** pour dire qu'elles seront meilleures pour limiter les GES. Quelques malentendus :
+Les EnR peuvent être une solution. Néanmoins, le fait qu'elles soient renouvelables **n'est pas une condition suffisante** pour affirmer qu'elles seront meilleures pour limiter les GES. Quelques clarifications :
 1. **Énergie renouvelable ne l'est pas forcément**. Le bois est considéré comme renouvelable, car on peut faire pousser des arbres en un temps relativement court (quelques décennies). Cependant, si on déforeste plus vite qu'on ne plante d'arbres, cela a beau être appelé « renouvelable », cela ne veut pas dire que cela sera renouvelé.
 1. **Une énergie peut être renouvelable mais son dispositif de capture ne l'ai pas forcément**. Une éolienne ou une cellule photovoltaïque demandent des ressources minérales disponibles en quantité limité.
 1. **Renouvelable n'est pas synonyme de « flux d'énergie illimité ou presque »**. Si l'énergie est diffuse, peu concentrée (cas du solaire et de l'éolien), le dispositif de capture doit être gigantesque afin de pouvoir satisfaire la demande. Les fossiles n'ont pas (ou peu) ce problème car ils sont très denses en énergie. Leurs dispositifs de capture (puits de pétrole ou mines) sont donc relativement petits compte tenu de la quantité d'énergie extraite.
-1. **Toutes les EnR ne se valent pas**. La quantité de bois est limitée car son renouvellement n'est pas assez rapide. Le solaire et l'éolien ont un mode de production intermittent (pas de production pendant la nuit ou quand il n'y a pas de vent). L'hydraulique n'est pas installable partout.
+1. **Toutes les EnR ne se valent pas**. Elles ont des caractéristiques, des avantages et des inconvénients variées. La quantité de bois est limitée car son renouvellement n'est pas assez rapide. Le solaire et l'éolien ont un mode de production intermittent (pas de production pendant la nuit ou quand il n'y a pas de vent). L'hydraulique n'est pas installable partout.
 1. **Renouvelable ne signifie pas non-émettrice de CO~2~**. La combustion de bois suite à la déforestation émet des GES. La production de biogaz renouvelable peut entraîner des émissions fugitives de CH~4~ non négligeables si déployé à grande échelle. La fabrication de panneaux solaires, d'éolienne, de barrage, de dispositifs de stockage d'électricité... émettent des GES, voire même, sont rendus possibles grâce aux énergies fossiles.
 
-Si on souhaite substituer une énergie fossile par une EnR, une **analyse approfondie** des gains et pertes est nécessaire. Et, au stade « approfondi » le caractère « renouvelable » de l'énergie n'importe plus. Autrement dit, du point de vue du climat, on s'en fiche de si elle est « renouvelable » ou non à cause des 5 points évoqués plus haut ; **ce qui importe c'est : combien de tonnes de GES nous permet-elle d'éviter d'émettre** ? J'insiste, la réponse à cette question n'a rien avoir avec son caractère « renouvelable ».
+Si on souhaite substituer une énergie fossile par une EnR, une **analyse approfondie** des gains et pertes est nécessaire. Et, au stade « approfondi » le caractère « renouvelable » de l'énergie n'importe plus. Autrement dit, du point de vue du climat, on s'en fiche de si elle est « renouvelable » ou non à cause des 5 points évoqués plus haut ; **ce qui importe c'est : combien de tonnes de GES nous permet-elle d'éviter d'émettre** ? J'insiste, la réponse à cette question n'a rien avoir avec son caractère « renouvelable ».

@@ -26,6 +26,10 @@
         {
           "label": "Combustibles fossiles",
           "url": "/energie-climat/combustibles-fossiles/"
+        },
+        {
+          "label": "(sources et calculs)",
+          "url": "/energie-climat/sources-et-calculs/"
         }
       ]
     },
