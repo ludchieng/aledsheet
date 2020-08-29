@@ -54,8 +54,8 @@ En anglais : *carbon dioxyde* (CO~2~), *methane* ou *natural gas* ou *fossil ga
 
 **Au niveau mondial**
 * Température moyenne de surface 1.2°C plus élevée (2020) comparée à la période 1850-1900 (période préindustrielle)
-* Diminution de la cryosphère (dont pergélisol ou *permafrost*)
-* Traumatismes des écosystèmes (perte des deux tiers des animaux sauvages depuis 40 ans)
+* Diminution de la cryosphère (banquise, glaciers, pergélisol ou *permafrost*...)
+* Traumatismes des écosystèmes (perte des deux tiers des animaux sauvages entre 1980 et 2020)
 * Intensification des phénomènes météos (extrêmes de température, précipitations et vents)
 * Acidification des océans (perturbation du cycle du carbone et de l'azote, effets sur les coraux, les poissons et les phytoplanctons)
 * Baisse des rendements agricoles
