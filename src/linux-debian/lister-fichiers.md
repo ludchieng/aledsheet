@@ -55,9 +55,9 @@ Les neuf caractères suivants indiquent les droits d'accès (*permissions*) à s
 * `x` pour « execute », le droit de d'**exécuter** un fichier (un programme) ou de « traverser » un répertoire.
 
 Dans `r-x`, le tiret signifie qu'il n'y a pas le droit d'écriture. Le bloc `rwx` est répété trois fois pour décrire les permissions des trois types d'utilisateurs, à savoir, dans l'ordre :
-* l'**utilisateur propriétaire** (*owner*) de l'élément,
-* les utilisateurs associés au **groupe** (*group*) qui est assigné à l'élément,
-* les **autres** utilisateurs (*others*).
+* l'**utilisateur propriétaire** (*owner* ou *user* ou *u*) de l'élément,
+* les utilisateurs associés au **groupe** (*group* ou *g*) qui est assigné à l'élément,
+* les **autres** utilisateurs (*others* ou *o*).
 
 Exemple de permissions : `rwxr-x---`, où le propriétaire a tous les droits sur l'élément, les membres du groupe peuvent seulement le lire et l'exécuter et les autres n'ont aucun droit.
 

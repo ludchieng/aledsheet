@@ -10,7 +10,7 @@ tags: énergie climat ges gaz effet de serre énergies combustibles fossiles cha
 
 ## En un mot
 
-La climat a toujours évolué, à cause de différentes causes non liées à l'Homme (astronomie, géologie...). Le dérèglement climatique, que nous vivons actuellement, est un **changement extrêmement brutal et rapide**.
+Le climat a toujours évolué, à cause de différentes causes non liées à l'Homme (astronomie, géologie...). Le dérèglement climatique, que nous vivons actuellement, est un **changement extrêmement brutal et rapide**.
 
 Il est incontestablement la conséquence des **activités humaines**. Les pollutions d'origine humaine sont très nombreuses. La plus grave est probablement l'**émission de GES** (gaz à effet de serre) dont le CO~2~ fait partie, mais aussi le CH~4~, le N~2~O...
 
@@ -25,7 +25,7 @@ Plusieurs éléments ont une influence sur le climat :
 
 * **Astronomiques**. Soleil, inclinaison de l'axe de rotation terrestre (responsable des entrées en glaciation)... → prend place sur une très grande échelle de temps
 * **Géologiques**. Position des continents, volcanisme (diffusion d'aérosols sulfatés)...
-* **Intrinsèques**. Atmosphère (composition chimique), hydrosphère (océans, lacs, rivières et nappes sous-terraines), cryosphère (banquises et glaciers), biosphère (le vivant)...
+* **Intrinsèques**. Atmosphère (composition chimique), hydrosphère (océans, lacs, rivières et nappes souterraines), cryosphère (banquises et glaciers), biosphère (le vivant)...
 * **Anthropiques (humains)**. surplus de GES (gaz à effet de serre), modification de l'albédo terrestre (déforestation...)
 
 
@@ -50,13 +50,13 @@ La majorité du surplus d'effet de serre est causé par les **combustibles fossi
 En anglais : *carbon dioxyde* (CO~2~), *methane* ou *natural gas* ou *fossil gas* (CH~4~), *nitrous oxyde* (N~2~O)
 
 
-### Conséquences notables
+### Risques et conséquences notables
 
 **Au niveau mondial**
 * Température moyenne de surface 1.2°C plus élevée (2020) comparée à la période 1850-1900 (période préindustrielle)
 * Diminution de la cryosphère (banquise, glaciers, pergélisol ou *permafrost*...)
 * Traumatismes des écosystèmes (perte des deux tiers des animaux sauvages entre 1980 et 2020)
-* Intensification des phénomènes météos (extrêmes de température, précipitations et vents)
+* Intensification des phénomènes météo (extrêmes de température, précipitations et vents)
 * Acidification des océans (perturbation du cycle du carbone et de l'azote, effets sur les coraux, les poissons et les phytoplanctons)
 * Baisse des rendements agricoles
 
@@ -75,14 +75,14 @@ En anglais : *carbon dioxyde* (CO~2~), *methane* ou *natural gas* ou *fossil ga
 
 **Zones littorales et insulaires**
 * Élévation du niveau des mers
-* Cyclones tropicaux plus violent
-* Menaces sur les zones agricoles (majoritairement sur les littoraux)
+* Cyclones tropicaux plus violents
+* Menaces sur l'agriculture littorale
 * Menaces sur les zones industrialo-portuaires (interfaces commerciales entre les pays)
-* Menaces sur les installations en bord de mer (centrales électrique thermique...)
+* Menaces sur les installations en bord de mer (centrales électriques thermiques...)
 
 **Zones équatoriales et tropicales**
 * Fortes chaleurs pouvant rendre la zone inhabitable pendant les périodes chaudes de l'année
-* Très fortes précipitations causant des inondations destructrices. Notamment en Indonésie et au Pérou-Équateur (phénomène El-Niño)
+* Très fortes précipitations causant des inondations destructrices. Notamment en Indonésie, en Inde et au Pérou-Équateur (phénomène El Niño)
 
 
 ## Encore plus de détails
@@ -93,7 +93,7 @@ La Terre reçoit des rayonnements électromagnétiques provenant du Soleil. Ce t
 
 Cette température donne lieu majoritairement à du rayonnement type infrarouge lointain. Ce sont les rayonnements dans cette gamme de fréquences qui sont partiellement interceptés par les GES.
 
-En pratique, le bilan radiatif de la Terre est plus complexe. Il faut aussi raisonner en plusieurs « couches » atmosphèriques afin de calculer la part du rayonnement terrestre qui est absorbée par les GES, et celle qui s'extirpe du système Terre.
+En pratique, le bilan radiatif de la Terre est plus complexe. Il faut aussi raisonner en plusieurs « couches » atmosphériques afin de calculer la part du rayonnement terrestre qui est absorbée par les GES, et celle qui s'extirpe du système Terre.
 
 
 ### Comparaison des GES grâce au potentiel de réchauffement global
@@ -113,9 +113,9 @@ Mais c'est beaucoup ! Cependant, comme nous émettons beaucoup plus de CO~2~, le
 
 ### Équivalent CO~2~
 
-Quand on dit qu'une entreprise émet 7 000 000 tCO2e ou 7 MtCO2e (méga tonnes équivalent CO~2~). Cela signifie que ces émissions de GES (CO~2~, CH~4~, N~2~O, gaz fluorés...) équivaut en terme d'effet de serre à si elle avait émis 7 MtCO2 (méga tonnes de CO~2~).
+Quand on dit qu'une entreprise émet 7 000 000 tCO2e ou 7 MtCO2e (méga tonnes équivalent CO~2~). Cela signifie que ces émissions de GES (CO~2~, CH~4~, N~2~O, gaz fluorés...) équivaut en termes d'effet de serre à si elle avait émis 7 MtCO2 (méga tonnes de CO~2~).
 
-L'entreprise a émis 5 MtCO2, 40 ktCH4 et 3.3 ktN2O (kilo tonnes de N~2~O). Pour éviter de lister tous les GES, on convertira l'effet des 40 ktCH4 et des 3.3 ktN2O en équivalent CO~2~ (CO2e). C'est plus pratique car, avec une unique valeur exprimée en CO2e, on peut mieux appréhender la contribution d'une entreprise à l'effet de serre. 
+L'entreprise a émis 5 MtCO2, 40 ktCH4 et 3.3 ktN2O (kilo tonnes de N~2~O). Pour éviter de lister tous les GES, on convertira l'effet des 40 ktCH4 et des 3.3 ktN2O en équivalent CO~2~ (CO2e). C'est plus pratique, car, avec une unique valeur exprimée en CO2e, on peut mieux appréhender la contribution d'une entreprise à l'effet de serre. 
 
 Pour faire cette conversion, on utilise le fameux **PRG à 100 ans** dont on a parlé avant.
 
@@ -139,7 +139,7 @@ $$
 \end{aligned}
 $$
 
-On aditionne tous les résultats et on obtient la quantité d'emission de GES de l'entreprise en équivalent CO~2~.
+On additionne tous les résultats et on obtient la quantité d'emissions de GES de l'entreprise en équivalent CO~2~.
 
 
 ## Aller plus loin
@@ -154,7 +154,7 @@ C'est un organisme intergouvernemental de l'ONU chargé de faire la synthèse (m
 
 Il publie, en 2014, le **[5e rapport d'évaluation](https://www.ipcc.ch/assessment-report/ar5)** (**AR5**), est rédigé par trois **groupes de travail** (*working group* ou *WG*). Le 4e est paru en 2007. Le 6e est prévu pour 2022.
 
-On peut difficilement lire l'intégralité du rapport (3500+ pages). En pratique, chacun·e lit le résumé et éventuellement les chapitres qui l'intéresse, pour avoir plus de détails. Pour le·la citoyen·ne lambda, le document à consulter est celui-ci : **[Résumés des éléments scientifiques](https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SummaryVolume_FINAL_FRENCH.pdf)** ; et particulièrement la FAQ à partir de la page 120.
+On peut difficilement lire l'intégralité du rapport (3500+ pages). En pratique, chacun·e lit le résumé et éventuellement les chapitres qui l'intéressent, pour avoir plus de détails. Pour le·la citoyen·ne lambda, le document à consulter est celui-ci : **[Résumés des éléments scientifiques](https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SummaryVolume_FINAL_FRENCH.pdf)** ; et particulièrement la FAQ à partir de la page 120.
 
 Le rapport complet le plus important est **The Physical Science Basis (WG1)** car il s'appuie sur une démarche scientifique. Les rapports suivants traitent d'économie et de social en faisant des hypothèses plus discutables. Leurs conclusions sont donc moins sûres même s'ils soulèvent des éléments intéressants.
 

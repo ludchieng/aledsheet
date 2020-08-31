@@ -63,7 +63,7 @@ Personnellement, j'utilise souvent nano pour éditer rapidement un fichier de co
 
 Pour quitter l'éditeur nano, appuyez sur `Ctrl+X`. Dans le jargon, on dit plutôt `^X`.
 
-Si vous avez modifié le fichier, nano demande la confirmation pour sauvegrader. Appuyer sur `O`.
+Si vous avez modifié le fichier, nano demande la confirmation pour sauvegarder. Appuyer sur `O`.
 
 Ensuite, il y a le choix entre écraser le fichier ou sauvegarder sous un autre nom pour conserver l'original. Appuyer sur `Entrée ↲`.
 

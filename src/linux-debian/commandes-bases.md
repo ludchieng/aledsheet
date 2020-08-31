@@ -82,7 +82,7 @@ $ rmdir nudes
 Appuyer sur `↑` permet d'accéder à la commande précédente. Il est possible d'avoir l'historique des dernières commandes avec `history`.
 
 **Astuce le retour** \
-Pour aller plus vite, on peut taper seulement `rmdir n` et appuyer sur la touche `TAB`. Normalement, le nom du répertoire apparaît tout en entier d'un coup ! C'est ce qu'on appelle l'**autocomplétion**. Cela fonctionne pour toutes les commandes qui demandent des noms de répertoires comme `cd` par exemple. Si ça ne marche pas c'est probablement :
+Pour aller plus vite, on peut taper seulement `rmdir n` et appuyer sur la touche `TAB`. Normalement, le nom du répertoire apparaît tout en entier d'un coup ! C'est ce qu'on appelle l'**autocomplétion**. Cela fonctionne pour toutes les commandes qui demandent des noms de répertoires comme `cd` par exemple. Si ça ne marche pas, c'est probablement :
 * qu'il n'y a pas de répertoire qui commence par « n »,
 * qu'il y a un autre répertoire qui commence par « n ». Il faut taper `rmdir nu` puis `TAB`,
 * qu'on n'est pas dans le bon répertoire (commande `ls` pour avoir la liste des fichiers et répertoires et `cd` pour se déplacer),

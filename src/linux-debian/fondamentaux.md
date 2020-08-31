@@ -34,7 +34,7 @@ Ensuite, il faut créer une **nouvelle** VM :
 
 Une nouvelle VM vient d'apparaître dans la barre latérale gauche. Il faut en modifier les **paramètres** (clic droit). Aller dans *Stockage* et ajouter l'image disque Linux dans le lecteur de disque virtuel de la VM.
 
-En **démarrant** la VM, l'image disque Linux sera lu, et l'**installation** de Linux pourra s'effectuer.
+En **démarrant** la VM, l'image disque Linux sera lue, et l'**installation** de Linux pourra s'effectuer.
 
 Après cela, il sera possible et recommandé d'installer les **guest additions**.  \
 https://www.linuxbabe.com/linux-mint/install-virtualbox-guest-additions-in-linux-mint/

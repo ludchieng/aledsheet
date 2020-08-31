@@ -4,8 +4,8 @@ Cheatsheets collection website.
 ## **Instructions** :wrench::gear:
 ```
 $ git clone https://github.com/ludchieng/aledsheet
-$ cd ./geoguess12
+$ cd ./aledsheet
 $ npm install
-$ npm start
 $ npx gulp
+$ npm start
 ```
