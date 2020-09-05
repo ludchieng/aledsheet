@@ -5,10 +5,6 @@
         {
           "label": "Accueil",
           "url": "/"
-        },
-        {
-          "label": "Signal",
-          "url": "/signal/"
         }
       ]
     },
@@ -39,6 +35,15 @@
         {
           "label": "Fiction",
           "url": "/audiovisuel/fiction/"
+        }
+      ]
+    },
+    {
+      "label": "Dev",
+      "items": [
+        {
+          "label": "MCD",
+          "url": "/dev/mcd/"
         }
       ]
     },
