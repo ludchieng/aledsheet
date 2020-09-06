@@ -3,7 +3,7 @@ id: formules
 title: Formules
 author: Ludwig Chieng
 layout: default
-tags: mécanique cinématique force couple cinétique masse inertie énergétique
+tags: mécanique méca cinématique force couple cinétique masse inertie énergétique
 ---
 
 # Formules de mécanique générale

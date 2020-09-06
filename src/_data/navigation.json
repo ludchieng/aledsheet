@@ -115,6 +115,27 @@
       ]
     },
     {
+      "label": "Maths",
+      "items": [
+        {
+          "label": "Dérivées",
+          "url": "/maths/derivees/"
+        },
+        {
+          "label": "Trigonométrie",
+          "url": "/maths/trigonometrie/"
+        },
+        {
+          "label": "Développement limités",
+          "url": "/maths/developpements-limites/"
+        },
+        {
+          "label": "Calcul vectoriel",
+          "url": "/maths/calcul-vectoriel/"
+        }
+      ]
+    },
+    {
       "label": "Zététique",
       "items": [
         {
