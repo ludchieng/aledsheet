@@ -39,6 +39,7 @@ module.exports = eleventyConfig => {
     md.use( require('markdown-it-sup') );
     md.use( require('markdown-it-attrs') );
     md.use( require('markdown-it-anchor') );
+    md.use( require('markdown-it-charts') );
     md.use( require("markdown-it-toc-done-right"), {
         level: [2, 3, 4, 5]
     });
