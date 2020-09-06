@@ -44,7 +44,6 @@ module.exports = eleventyConfig => {
     });
     md.use( require('markdown-it-texmath'), {
         engine: require('katex'),
-        //delimiters: 'dollars',
         katexOptions: { displayMode: true }
     });
 

@@ -124,6 +124,15 @@
       ]
     },
     {
+      "label": "Méca",
+      "items": [
+        {
+          "label": "Formules",
+          "url": "/meca/formules/"
+        }
+      ]
+    },
+    {
       "label": "Aéro",
       "items": [
         {
