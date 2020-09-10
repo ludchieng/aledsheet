@@ -24,10 +24,6 @@ module.exports = eleventyConfig => {
     // Include our static assets
     eleventyConfig.addPassthroughCopy('assets')
 
-    eleventyConfig.addPlugin(syntaxHighlight, {
-        alwaysWrapLineHighlights: false
-    });
-
     let md = require('markdown-it')({
         html: true,
         breaks: true,
@@ -46,6 +42,10 @@ module.exports = eleventyConfig => {
     md.use( require('markdown-it-texmath'), {
         engine: require('katex'),
         katexOptions: { displayMode: true }
+    });
+
+    eleventyConfig.addPlugin(syntaxHighlight, {
+        alwaysWrapLineHighlights: false
     });
 
     eleventyConfig.setLibrary('md', md);

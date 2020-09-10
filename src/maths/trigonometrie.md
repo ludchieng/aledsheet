@@ -24,7 +24,7 @@ $$
 $$
 
 ---
-**Identités pythagoricienne**
+**Identités pythagoriciennes**
 
 $$
 \def\arraystretch{1.5}
