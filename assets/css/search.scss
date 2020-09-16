@@ -1,6 +1,8 @@
 
 .search-results {
     display: none;
+    max-height: 80vh;
+    overflow-y: scroll;
 }
 
 .search-visible .search-results[data-state="no-results"],
@@ -15,7 +17,7 @@
 
 .search-results .excerpt {
     white-space: pre-wrap;
-    overflow: hidden;
+    overflow-y: hidden;
     display: -webkit-box;
     -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
