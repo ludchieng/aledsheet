@@ -145,6 +145,19 @@
       ]
     },
     {
+      "label": "Signal",
+      "items": [
+        {
+          "label": "Signaux acoustiques",
+          "url": "/signal/signaux-acoustiques/"
+        },
+        {
+          "label": "Séries de Fourier",
+          "url": "/signal/series-de-fourier/"
+        }
+      ]
+    },
+    {
       "label": "Méca",
       "items": [
         {

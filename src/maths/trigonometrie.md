@@ -13,7 +13,7 @@ tags: maths mathématiques analyse fonction trigonométrie trigo
 $$
 \def\arraystretch{1.5}
 \begin{aligned}
-  & \tan \left(x\right)=\frac{\sin \left(x\right)}{\cos \left(x\right)}
+  & \boxed{\tan \left(x\right)=\frac{\sin \left(x\right)}{\cos \left(x\right)}}
   & \tan \left(x\right)=\frac{1}{\cot \left(x\right)}
   && \cot \left(x\right)=\frac{1}{\tan \left(x\right)}
   \\
@@ -29,10 +29,22 @@ $$
 $$
 \def\arraystretch{1.5}
 \begin{aligned}
-  & \cos ^2\left(x\right)+\sin ^2\left(x\right)=1
+  & \boxed{\cos ^2\left(x\right)+\sin ^2\left(x\right)=1}
   & \sec ^2\left(x\right)-\tan ^2\left(x\right)=1
   \\
   & \csc ^2\left(x\right)-\cot ^2\left(x\right)=1
+\end{aligned}
+$$
+
+---
+**Formules d'Euler**
+
+$$
+\def\arraystretch{1.5}
+\begin{aligned}
+    \cos(x) & = \frac{e^{i x} + e^{-i x}}{2}
+    \\
+    \sin(x) & = \frac{e^{i x} - e ^{-i x}}{2i}
 \end{aligned}
 $$
 
