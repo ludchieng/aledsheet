@@ -10,7 +10,7 @@ tags: mécanique méca cinématique force couple cinétique masse inertie énerg
 
 [[toc]]
 
-On pose :
+On pose :
 * un solide $S$ de masse $m$ et de centre d'inertie $G$.
 * un ensemble de solides $E$ de masse $m_E$ et de centre de gravité $G_E$.
 * deux points $A$ et $B$ quelconques.
@@ -20,7 +20,7 @@ On pose :
 
 ## Cinématique
 ---
-Dérivation d'un vecteur $\overrightarrow u$ quelconque :
+Dérivation d'un vecteur $\overrightarrow u$ quelconque :
 
 $$
   \left( \frac{d \overrightarrow{u} }{d t} \right)_{R_1}
@@ -29,7 +29,7 @@ $$
 $$
 
 ---
-Torseur cinématique :
+Torseur cinématique :
 
 $$
 \begin{Bmatrix}
@@ -43,7 +43,7 @@ $$
 $$
 
 ---
-Transport du moment cinématique :
+Transport du moment cinématique :
 
 $$
   \overrightarrow{V_{B \in S/R}}
@@ -52,7 +52,7 @@ $$
 $$
 
 ---
-Composition des vitesses :
+Composition des vitesses :
 
 $$
   \overrightarrow{V_{A \in 2/0}}
@@ -61,7 +61,7 @@ $$
 $$
 
 ---
-Composition des accélérations :
+Composition des accélérations :
 
 $$
   \overrightarrow{\Gamma_{A \in 2/0}}
@@ -73,7 +73,7 @@ $$
 
 ## Actions mécaniques
 ---
-Torseur d'une action mécanique :
+Torseur d'une action mécanique :
 
 $$
 \begin{Bmatrix}
@@ -87,7 +87,7 @@ $$
 $$
 
 ---
-Transport du moment d'une action mécanique :
+Transport du moment d'une action mécanique :
 
 $$
   \overrightarrow{M_{B, \, 1 \rightarrow E}}
@@ -98,7 +98,7 @@ $$
 
 ## Cinétique
 
-Torseur cinétique d'un solide :
+Torseur cinétique d'un solide :
 
 $$
 \begin{Bmatrix}
@@ -117,7 +117,7 @@ $$
 $$
 
 ---
-Transport du moment cinétique :
+Transport du moment cinétique :
 
 $$
   \overrightarrow{\sigma_{B, \, S/R}}
@@ -126,7 +126,7 @@ $$
 $$
 
 ---
-Torseur cinétique d'un ensemble $E$ de $n$ solide(s) noté(s) $S_i$ :
+Torseur cinétique d'un ensemble $E$ de $n$ solide(s) noté(s) $S_i$ :
 
 $$
 \begin{Bmatrix}
@@ -142,7 +142,7 @@ $$
 
 ## Dynamique
 
-Torseur dynamique d'un solide :
+Torseur dynamique d'un solide :
 
 $$
 \begin{Bmatrix}
@@ -161,7 +161,7 @@ $$
 $$
 
 ---
-Transport du moment dynamique :
+Transport du moment dynamique :
 
 $$
   \overrightarrow{\delta_{B, \, S/R}}
@@ -170,7 +170,7 @@ $$
 $$
 
 ---
-Torseur dynamique d'un ensemble $E$ de $n$ solide(s) noté(s) $S_i$ :
+Torseur dynamique d'un ensemble $E$ de $n$ solide(s) noté(s) $S_i$ :
 
 $$
 \begin{Bmatrix}
@@ -186,7 +186,7 @@ $$
 
 ## Géométrie des masses
 
-Centre de gravité d'un ensemble $E$ de $n$ solide(s) noté(s) $S_i$ :
+Centre de gravité d'un ensemble $E$ de $n$ solide(s) noté(s) $S_i$ :
 
 $$
   \overrightarrow{AG_E}
@@ -194,7 +194,7 @@ $$
 $$
 
 ---
-Matrice d'inertie :
+Matrice d'inertie :
 
 $$
 \begin{bmatrix}
@@ -217,7 +217,7 @@ $$
 $$
 
 ---
-Transport d'une matrice d'inertie :
+Transport d'une matrice d'inertie :
 
 $$
 \begin{bmatrix}
@@ -244,7 +244,7 @@ $$
 $$
 
 ---
-Changement de base d'une matrice d'inertie :
+Changement de base d'une matrice d'inertie :
 
 $$
 \begin{bmatrix}
@@ -288,7 +288,7 @@ $$
 
 ## Énergétique
 
-Puissance d'une action mécanique :
+Puissance d'une action mécanique :
 
 $$
 \begin{aligned}
@@ -311,7 +311,7 @@ $$
 $$
 
 ---
-Travail d'une action mécanique :
+Travail d'une action mécanique :
 
 $$
 W_{1 \rightarrow S, \, S/R}
@@ -319,7 +319,7 @@ W_{1 \rightarrow S, \, S/R}
 $$
 
 ---
-Énergie cinétique :
+Énergie cinétique :
 
 $$
 T_{S/R} = \frac{1}{2} \cdot

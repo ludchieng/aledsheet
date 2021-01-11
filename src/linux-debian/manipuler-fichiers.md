@@ -11,7 +11,7 @@ licence: CC-BY-SA Ludwig Chieng
 
 [[toc]]
 
-Attention ! Pas de retour arrière `Ctrl+Z` possible à ma connaissance.
+Attention ! Pas de retour arrière `Ctrl+Z` possible à ma connaissance.
 
 
 ## Déplacer et renommer
@@ -34,7 +34,7 @@ $ mv file1 Documents
 $ mv file2 file0
 ```
 
-Attention ! Renommer écrase le fichier existant.
+Attention ! Renommer écrase le fichier existant.
 
 ``` shell
 # Déplacer en renommant
@@ -53,7 +53,7 @@ $ cp file0 Documents/
 ## Supprimer
 
 ``` shell
-# Supprimer "file0" : "rm" → "remove"
+# Supprimer "file0" : "rm" → "remove"
 $ rm file0
 ```
 
@@ -83,7 +83,7 @@ $ rm -rf "Documents/projet raté/*"
 
 ## Verbose
 
-L'option `-v` pour `mv`, `cp` ou `rm` permet d'écrire dans le terminal, un « rapport » des actions qui ont été menées. C'est particulièrement utile quand on utilise le joker `*`.
+L'option `-v` pour `mv`, `cp` ou `rm` permet d'écrire dans le terminal, un « rapport » des actions qui ont été menées. C'est particulièrement utile quand on utilise le joker `*`.
 
 ``` shell
 $ rm -rfv ~/Documents/projet/

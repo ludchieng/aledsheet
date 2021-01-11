@@ -33,7 +33,7 @@ Plusieurs éléments ont une influence sur le climat :
 
 ### Gaz à effet de serre (GES) ou *greenhouse gases* (GHG)
 
-On appelle l'effet de serre (*greenhouse effect*) un phénomène physique lié à l'atmosphère d'une planète. L'énergie du Soleil, d'abord absorbée par la planète, **puis réémise par celle-ci**, est partiellement retenue dans l'atmosphère. Cela a pour effet de **« réchauffer » la surface et l'atmosphère**.
+On appelle l'effet de serre (*greenhouse effect*) un phénomène physique lié à l'atmosphère d'une planète. L'énergie du Soleil, d'abord absorbée par la planète, **puis réémise par celle-ci**, est partiellement retenue dans l'atmosphère. Cela a pour effet de **« réchauffer » la surface et l'atmosphère**.
 
 **L'effet de serre n'a pas attendu l'Homme pour prendre place**. Les nuages sont de grands contributeurs à la capture des rayons infrarouges émis par la Terre. Ainsi, l'eau (H~2~O) est le gaz à effet de serre le plus important sur Terre.
 
@@ -51,7 +51,7 @@ La majorité du surplus d'effet de serre est causé par les **combustibles fossi
 
 En anglais : *carbon dioxyde* (CO~2~), *methane* ou *natural gas* ou *fossil gas* (CH~4~), *nitrous oxyde* (N~2~O).
 
-***Contribution aux émissions de GES par secteur d'usage dans le monde en 2016. Données Climate Watch Data via World Ressources Institute :***
+***Contribution aux émissions de GES par secteur d'usage dans le monde en 2016. Données Climate Watch Data via World Ressources Institute :***
 
 ```chart
 {
@@ -129,20 +129,20 @@ La Terre reçoit des rayonnements électromagnétiques provenant du Soleil. Ce t
 
 Cette température donne lieu majoritairement à du rayonnement type infrarouge lointain. Ce sont les rayonnements dans cette gamme de fréquences qui sont partiellement interceptés par les GES.
 
-En pratique, le bilan radiatif de la Terre est plus complexe. Il faut aussi raisonner en plusieurs « couches » atmosphériques afin de calculer la part du rayonnement terrestre qui est absorbée par les GES, et celle qui s'extirpe du système Terre.
+En pratique, le bilan radiatif de la Terre est plus complexe. Il faut aussi raisonner en plusieurs « couches » atmosphériques afin de calculer la part du rayonnement terrestre qui est absorbée par les GES, et celle qui s'extirpe du système Terre.
 
 
 ### Comparaison des GES grâce au potentiel de réchauffement global
 
-Une tonne de N~2~O provoque un certain effet de serre. Combien de tonnes de CO~2~ faut-il pour réaliser ce même effet de serre ?
+Une tonne de N~2~O provoque un certain effet de serre. Combien de tonnes de CO~2~ faut-il pour réaliser ce même effet de serre ?
 
 Problème : Le N~2~O n'a pas la même durée de vie dans l'atmosphère que le CO~2~ (absorption progressive par les processus biogéochimiques de la Terre). Il faut donc comparer les GES sur une durée donnée. La réponse varie en fonction de cet horizon temporel donné.
 
-Une tonne de N~2~O provoque un certain effet de serre sur 100 ans. Combien de tonnes de CO~2~ faut-il pour réaliser ce même effet de serre sur 100 ans ?
+Une tonne de N~2~O provoque un certain effet de serre sur 100 ans. Combien de tonnes de CO~2~ faut-il pour réaliser ce même effet de serre sur 100 ans ?
 
 Réponse : Environ 298. Sur une période de 100 ans, 1 tonne de N~2~O provoque la même quantité d'effet de serre que 298 tonnes de CO~2~.
 
-Mais c'est beaucoup ! Cependant, comme nous émettons beaucoup plus de CO~2~, le protoxyde d'azote reste minoritaire dans sa participation à l'effet de serre.
+Mais c'est beaucoup ! Cependant, comme nous émettons beaucoup plus de CO~2~, le protoxyde d'azote reste minoritaire dans sa participation à l'effet de serre.
 
 298 c'est ce qu'on appelle le **PRG** (potentiel de réchauffement global), et plus précisément le **PRG à 100 ans** du N~2~O. En anglais, on dit *GWP* (global warming potential).
 
@@ -214,7 +214,7 @@ Le rapport complet le plus important est **The Physical Science Basis (WG1)** ca
 **[WG2](https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIAR5-TS_FINAL.pdf)**. 60 pages. \
 **[WG3](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_technical-summary.pdf)**. 78 pages.
 
-Le GIEC émet des rapports dits « spéciaux » entre chaque « gros » rapport d'évaluation :
+Le GIEC émet des rapports dits « spéciaux » entre chaque « gros » rapport d'évaluation :
 * **Réchauffement planétaire de 1.5°C** | [Complet](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_Low_Res.pdf) | [Résumés et FAQ](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/09/SR15_Summary_Volume_french.pdf) | Traitant des conséquences d’un réchauffement planétaire de 1,5 °C par rapport aux niveaux préindustriels (1850-1900). 
 * **Changements climatiques et terres émergées** | [Complet](https://www.ipcc.ch/site/assets/uploads/sites/4/2020/06/SRCCL_SPM_fr.pdf) | [Résumé aux décideurs](https://www.ipcc.ch/site/assets/uploads/sites/4/2020/06/SRCCL_SPM_fr.pdf) | [Résumé technique](https://www.ipcc.ch/site/assets/uploads/2019/11/03_Technical-Summary-TS.pdf) | La désertification, la dégradation des sols, la gestion durable des terres, la sécurité alimentaire et les flux de gaz à effet de serre dans les écosystèmes terrestres.
 * **Océan et Cryosphère** | [Complet](https://www.ipcc.ch/site/assets/uploads/sites/3/2019/12/SROCC_FullReport_FINAL.pdf) | [Résumé aux décideurs](https://www.ipcc.ch/site/assets/uploads/sites/3/2020/07/SROCC_SPM_fr.pdf) | [Résumé technique](https://www.ipcc.ch/site/assets/uploads/sites/3/2019/11/04_SROCC_TS_FINAL.pdf) |

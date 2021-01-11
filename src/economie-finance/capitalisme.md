@@ -18,7 +18,7 @@ Système économique dont les acteurs·trices recherchent le profit par l'invest
 
 ## Cas le plus simple
 
-Le capital prend la forme de **moyens de production** : moyens physiques (ex. : matière, outils, usines, etc.) pour la création d'un produit.
+Le capital prend la forme de **moyens de production** : moyens physiques (ex. : matière, outils, usines, etc.) pour la création d'un produit.
 
 L'**investisseur·euse** recrute, ensuite, une main d'oeuvre qui manipule ces moyens de production pour produire des biens.
 
@@ -28,7 +28,7 @@ La vente de ses biens rapporte plus que les coûts initiaux investis (**profit**
 Relation économique et sociale entre un·e employeur·euse et un·e travailleur·euse et qui vend sa force de travail dans le cadre d'un contrat de travail formel ou informel. En échange de son salaire, les produits du travail réalisés par l'employé·e demeurent la propriété de l'employeur·euse (**séparation entre capital et travail**).
 
 **A qui revient le bénéfice** \
-Le profit est perçu par le·la **détenteur·trice du capital** (qui a réalisé l'investissement). Justification :
+Le profit est perçu par le·la **détenteur·trice du capital** (qui a réalisé l'investissement). Justification :
 * l'investisseur·euse a **initié** et **maintenu** l'activité économie
 * l'investisseur·euse prend le **risque** de ne pas faire de profit (si la vente ne couvre pas les coûts initiaux)
 
@@ -60,12 +60,12 @@ Limitation des situations de monopole, interdiction du travail infantile, salair
 
 Le rôle de la **réglementation** est de **conserver les avantages** du capitalisme (la production de biens utiles pour la société, etc.) tout en **limitant ces aspects néfastes** (atteintes aux travailleurs·euses, etc.).
 
-Historiquement, certains secteurs n'ont pas adopté un système capitaliste car on jugeait qu'il apporterait plus de mal que de bien (ex. : éducation, santé, défense...). Ces domaines sont restés à la main de l'État.
+Historiquement, certains secteurs n'ont pas adopté un système capitaliste car on jugeait qu'il apporterait plus de mal que de bien (ex. : éducation, santé, défense...). Ces domaines sont restés à la main de l'État.
 
 
 ## L'autonomie
 
-Dans un capitalisme « théorique », un mécanisme important prend place :
+Dans un capitalisme « théorique », un mécanisme important prend place :
 * Les détenteurs·trices de capitaux veulent maximiser leur profit en développant toutes sortes d'**activités économiques** au travers d'entreprises.
 * Certaines activités ne se révèleront **pas très utiles** à la société. Mais d'autres seront **fructueuses** et apporteront beaucoup de profit.
 * Les activités jugées inutiles disparaîtront et celles qui ont fait succès pourront encore plus se développer.
@@ -77,16 +77,16 @@ Le système se construit de manière **autonome**. C'est-à-dire que seules les 
 
 ## La concurrence
 
-Dans un capitalisme « théorique », les secteurs de l'économie qui sont fructueux voient apparaître beaucoup d'entreprises. Chacune d'elle exerce une **concurrence** sur les autres pour un même produit afin d'**attirer les clients** :
+Dans un capitalisme « théorique », les secteurs de l'économie qui sont fructueux voient apparaître beaucoup d'entreprises. Chacune d'elle exerce une **concurrence** sur les autres pour un même produit afin d'**attirer les clients** :
 * minimiser le prix de vente
 * proposer un produit de meilleur qualité
 
 
 ## La méritocratie
 
-Dans un capitalisme « théorique », les meilleurs produits seront plus chers et rapporteront plus de profit. Cette logique dait apparaître un système de **méritocratie** (obtention du pouvoir par celui ou celle qui le mérite).
+Dans un capitalisme « théorique », les meilleurs produits seront plus chers et rapporteront plus de profit. Cette logique dait apparaître un système de **méritocratie** (obtention du pouvoir par celui ou celle qui le mérite).
 
 
-**Cercles vertueux du capitalisme « théorique »** \
+**Cercles vertueux du capitalisme « théorique »** \
 La récompense de la prise de risque, du travail, de l'effort et de l'inventivité
 

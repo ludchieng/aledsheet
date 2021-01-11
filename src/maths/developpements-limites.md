@@ -12,13 +12,13 @@ tags: maths mathématiques developpements limités taylor young
 
 ## Formule de Taylor-Young
 
-Si $f$ admet une dérivée $n$-ième au point $a$, alors elle admet un développement limité à l'ordre $n$ en $a$, donné par :
+Si $f$ admet une dérivée $n$-ième au point $a$, alors elle admet un développement limité à l'ordre $n$ en $a$, donné par :
 
 $$
 f(x)=f(a)+{\frac{f'(a)}{1!}}(x-a)^{1}+{\frac{f''(a)}{2!}}(x-a)^{2}+\dots +{\frac {f^{(n)}(a)}{n!}}(x-a)^{n}+o((x-a)^{n}) \\
 $$
 
-ou, sous forme plus compacte :
+ou, sous forme plus compacte :
 
 $$
 f(x)=\sum _{k=0}^{n}{\frac {f^{(k)}(a)}{k!}}(x-a)^{k}+o((x-a)^{n})

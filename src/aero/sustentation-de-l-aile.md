@@ -11,7 +11,7 @@ licence: CC-BY-SA Ludwig Chieng
 
 [[toc]]
 
-Types d'écoulement :
+Types d'écoulement :
 * **laminaire**. L'air suit une trajectoire rectiligne.
 * **turbulent**. Les particules d'air suivent des trajectoires non-rectilignes mais globalement parallèles entre elles.
 * **tourbillonnaire**. Écoulement chaotique, certaines particules se déplacent à contre-courant.

@@ -13,7 +13,7 @@ Variation d'un champ de pression au cours du temps. On le note $x(t)$.
 
 
 **Périodicité** \
-Signal qui « se répète » à intervalle $T_0$. $\; \forall t, \, x(t+T_0) = x(t)$
+Signal qui « se répète » à intervalle $T_0$. $\; \forall t, \, x(t+T_0) = x(t)$
 
 
 **Valeur moyenne** sur un intervalle $[t_0, t_1]$ :
@@ -71,7 +71,7 @@ $$
 
 
 **Intégrale complexe**
-On définit :
+On définit :
 
 $$
   \int_{t_0}^{t_1} x(t) \! dt

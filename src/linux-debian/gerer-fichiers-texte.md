@@ -18,7 +18,7 @@ licence: CC-BY-SA Ludwig Chieng
 
 On peut les lancer, au choix, depuis le menu démarrer ou depuis le terminal. Pour arrêter un programme lancé depuis le terminal, on utilise `Ctrl+C` (ou plutôt `^C`).
 
-Il est possible d'installer des éditeurs plus complets, mais ils sont donc plus gourmands en ressources :
+Il est possible d'installer des éditeurs plus complets, mais ils sont donc plus gourmands en ressources :
 * **Atom** (très bien)
 * **Visual Studio Code** (mon préféré)
 
@@ -59,7 +59,7 @@ $ cat file2
 $ nano file3
 ```
 
-C'est assez rebutant au départ d'utiliser nano, car c'est un éditeur bas niveau. C'est-à-dire qu'il est avant tout fait pour être « proche de la machine » et pas pour être « user-friendly ». Il est pas facile à aborder à première vue, mais il est très rapide et très léger à exécuter.
+C'est assez rebutant au départ d'utiliser nano, car c'est un éditeur bas niveau. C'est-à-dire qu'il est avant tout fait pour être « proche de la machine » et pas pour être « user-friendly ». Il est pas facile à aborder à première vue, mais il est très rapide et très léger à exécuter.
 
 Personnellement, j'utilise souvent nano pour éditer rapidement un fichier de configuration sur mes serveurs distants, depuis le PC de quelqu'un d'autre ou depuis mon téléphone. C'est pour cela que je trouve intéressant de savoir l'utiliser.
 
@@ -71,7 +71,7 @@ Ensuite, il y a le choix entre écraser le fichier ou sauvegarder sous un autre 
 
 Si vous éditez des fichiers qui ne sont pas les vôtres (pas propriétaire), nano refusera d'enregistrer. Il est possible de lancer nano en tant que super-utilisateur (*super user* ou *root*) avec `sudo nano`.
 
-Raccourcis utiles :
+Raccourcis utiles :
 * `Ctrl+↓` pour descendre plus vite quand le fichier est long,
 * `Shift+↓` ou `Shift+→` pour sélectionner du texte sans la souris,
 * `Ctrl+K` couper la sélection,

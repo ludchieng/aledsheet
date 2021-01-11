@@ -27,7 +27,7 @@ Bureau  Documents  Images  Modèles  Musique  Public  Téléchargements  Vidéos
 Les répertoires et les fichiers sont affichés avec des couleurs différentes.
 
 
-## Plus de détails ?
+## Plus de détails ?
 
 ``` shell
 # Lister les fichiers et répertoires avec les détails
@@ -51,21 +51,21 @@ drwxr-xr-x 2 rasputin rasputin 4096 juin  29 16:19 Vidéo
 
 Le fichier texte `liste_course` que j'ai créé est visible. La lettre `d` en début de ligne indique si l'élément est un **répertoire** (*directory*) ou non.
 
-Les neuf caractères suivants indiquent les droits d'accès (*permissions*) à ses éléments. Il y a trois droits différents :
-* `r` signifie « read », le droit de **lecture** d'un fichier ou du contenu d'un répertoire,
-* `w` pour « write », le droit d'**écrire** dans un fichier ou de création de fichier dans le répertoire,
-* `x` pour « execute », le droit de d'**exécuter** un fichier (un programme) ou de « traverser » un répertoire.
+Les neuf caractères suivants indiquent les droits d'accès (*permissions*) à ses éléments. Il y a trois droits différents :
+* `r` signifie « read », le droit de **lecture** d'un fichier ou du contenu d'un répertoire,
+* `w` pour « write », le droit d'**écrire** dans un fichier ou de création de fichier dans le répertoire,
+* `x` pour « execute », le droit de d'**exécuter** un fichier (un programme) ou de « traverser » un répertoire.
 
-Dans `r-x`, le tiret signifie qu'il n'y a pas le droit d'écriture. Le bloc `rwx` est répété trois fois pour décrire les permissions des trois types d'utilisateurs, à savoir, dans l'ordre :
+Dans `r-x`, le tiret signifie qu'il n'y a pas le droit d'écriture. Le bloc `rwx` est répété trois fois pour décrire les permissions des trois types d'utilisateurs, à savoir, dans l'ordre :
 * l'**utilisateur propriétaire** (*owner* ou *user* ou *u*) de l'élément,
 * les utilisateurs associés au **groupe** (*group* ou *g*) qui est assigné à l'élément,
 * les **autres** utilisateurs (*others* ou *o*).
 
-Exemple de permissions : `rwxr-x---`, où le propriétaire a tous les droits sur l'élément, les membres du groupe peuvent seulement le lire et l'exécuter et les autres n'ont aucun droit.
+Exemple de permissions : `rwxr-x---`, où le propriétaire a tous les droits sur l'élément, les membres du groupe peuvent seulement le lire et l'exécuter et les autres n'ont aucun droit.
 
-Les permissions sont un ensemble de concepts assez technique qu'on ne détaillera pas pour le moment. S'il est impossible d'exécuter un fichier pour cause de `Permission non accordée`, retenter la commande avec `sudo` devant (ex. : `sudo mkdir nudes`). La commande demandera le mot de passe administrateur (*super-utilisateur* ou *root*).
+Les permissions sont un ensemble de concepts assez technique qu'on ne détaillera pas pour le moment. S'il est impossible d'exécuter un fichier pour cause de `Permission non accordée`, retenter la commande avec `sudo` devant (ex. : `sudo mkdir nudes`). La commande demandera le mot de passe administrateur (*super-utilisateur* ou *root*).
 
-Les colonnes suivantes représentent :
+Les colonnes suivantes représentent :
 * le **nombre de liens** (pas très important)
 * l'utilisateur **propriétaire** associé
 * l'utilisateur **leader du groupe** associé

@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 
     /* Placer ici le code de dessin */
     
-    // Echange du front et du back buffer : mise a jour de la fenetre
+    // Echange du front et du back buffer : mise a jour de la fenetre
     SDL_GL_SwapBuffers();
     
     SDL_Event e;

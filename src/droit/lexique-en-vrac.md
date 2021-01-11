@@ -36,7 +36,7 @@ Permet de **faire exécuter le jugement** par huissier de justice, avec au besoi
 
 #### Formule exécutoire
 
-Formule apposée sur un jugement avec un tampon :
+Formule apposée sur un jugement avec un tampon :
 
 
 > "En conséquence, la République Française mande et ordonne à tous Huissiers de Justice sur ce requis de mettre la dite décision à exécution, aux Procureurs Généraux et aux Procureurs de la République près les Tribunaux de Grande Instance d'y tenir la main, à tous Commandants et Officiers de la Force Publique de prêter main-forte lorsqu'ils en seront légalement requis. En foi de quoi, la présente décision a été signée par le Président et le Greffier"

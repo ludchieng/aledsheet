@@ -16,7 +16,7 @@ licence: CC-BY-SA Ludwig Chieng
 * **Synopsis** (*facultatif*). Court résumé du métrage
 * **Séquencier**. Court résumé de chaque séquence du métrage
 * **Continuité dialoguée**. Nom exact de ce qu'on appelle généralement le scénario (ou script)
-* **Script Breakdown** (*facultatif*). Le réalisateur et son assistant décortiquent les contraintes liés au scénario : besoins de décors, d’accessoires, de figurants, de maquillage, de costumes, d’effets spéciaux, de sons seuls, de cascades, ...
+* **Script Breakdown** (*facultatif*). Le réalisateur et son assistant décortiquent les contraintes liés au scénario : besoins de décors, d’accessoires, de figurants, de maquillage, de costumes, d’effets spéciaux, de sons seuls, de cascades, ...
 * **Découpage technique** (& Storyboard). 
 
 ### Production

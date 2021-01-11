@@ -17,7 +17,7 @@ licence: CC-BY-SA Ludwig Chieng
 $ cd /usr/local
 ```
 
-On remarque alors que l'invite de commande a changé :
+On remarque alors que l'invite de commande a changé :
 
 ``` shell
 # Avant
@@ -26,7 +26,7 @@ rasputin@wololo:~$ █
 rasputin@wololo:/usr/local$ █
 ```
 
-Pour s'exécuter, certaines commandes prennent en compte « l'endroit où on est placé ». Quand on crée un répertoire avec `mkdir`, le répertoire se crée à « l'endroit où on est placé ». Cet endroit est indiqué après `:`, c'est-à-dire `/usr/local`.
+Pour s'exécuter, certaines commandes prennent en compte « l'endroit où on est placé ». Quand on crée un répertoire avec `mkdir`, le répertoire se crée à « l'endroit où on est placé ». Cet endroit est indiqué après `:`, c'est-à-dire `/usr/local`.
 
 Par convention, `~` est le répertoire personnel de l'utilisateur. Quand on démarre le terminal juste après avoir lancé Linux, par défaut, on se situe ici.
 
@@ -50,7 +50,7 @@ $ cd /
 ``` shell
 # Aller dans mon répertoire puis aller dans "Public"
 $ cd
-$ cd Public # Rappel : on peut juste taper "cd Pu" puis appuyer sur "TAB"
+$ cd Public # Rappel : on peut juste taper "cd Pu" puis appuyer sur "TAB"
 
 # Se déplacer dans le répertoire dans lequel on est déjà
 # (ne sert littéralement à rien)
