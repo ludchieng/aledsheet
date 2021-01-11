@@ -8,6 +8,8 @@ tags: mécanique méca cinématique force couple cinétique masse inertie énerg
 
 # Formules de mécanique générale
 
+[[toc]]
+
 On pose :
 * un solide $S$ de masse $m$ et de centre d'inertie $G$.
 * un ensemble de solides $E$ de masse $m_E$ et de centre de gravité $G_E$.

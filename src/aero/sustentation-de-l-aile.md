@@ -9,6 +9,8 @@ licence: CC-BY-SA Ludwig Chieng
 
 # Sustentation de l'aile
 
+[[toc]]
+
 Types d'écoulement :
 * **laminaire**. L'air suit une trajectoire rectiligne.
 * **turbulent**. Les particules d'air suivent des trajectoires non-rectilignes mais globalement parallèles entre elles.
@@ -36,7 +38,7 @@ $V$ est la vitesse relative à l'air en ($m/s$).
 $C_x$ et $C_z$ sont les coefficients de traînée et de portance de l'aile (sans dimension).
 
 
-## L'angle d'incidence de l'aile
+## Angle d'incidence de l'aile
 
 L'angle d'incidence $\alpha$ est l'angle entre la direction de l'écoulement et la corde du profil d'aile.
 

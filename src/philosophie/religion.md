@@ -10,6 +10,8 @@ licence: (c) auteur inconnu
 
 # La religion
 
+[[toc]]
+
 La réflexion philosophique sur la religion a deux versants principaux, l'un purement théorique, l'autre plutôt pratique : d'une part il s'agit d'un cas particulier de la réflexion sur les rapports entre la croyance et la raison. On se pose alors des questions du type : « la foi s'oppose-t-elle à la raison ? », « la science est-elle l'ennemie de la religion ? », « peut-on ne croire en rien ? », etc. D'autre part, on se pose des questions sur la place de la religion dans la vie humaine et dans la société. On se pose alors des questions du type : « d'où vient la force de la religion ? », « pourquoi le progrès scientifique n'a-t-il pas fait disparaître les religions ? », « une société sans religion est-elle possible ? », ou encore « la religion nous permet-t-elle de mieux vivre ? ». Nous étudierons d'abord la religion d'un point de vue théorique, dans son rapport à la connaissance, puis d'un point de vue pratique, dans son rapport à l'action individuelle et la vie sociale.
  
 

@@ -9,6 +9,8 @@ licence: CC-BY-SA Ludwig Chieng
 
 # Introduction aux commandes Linux Debian
 
+[[toc]]
+
 Ici, on parlera des commandes pour Debian, Ubuntu ou Mint. Sur d'autres distributions Linux les commandes peuvent être différentes.
 
 Les commandes servent par exemple à :

@@ -9,6 +9,8 @@ licence: CC-BY-SA Ludwig Chieng
 
 # Manipuler les fichiers
 
+[[toc]]
+
 Attention ! Pas de retour arrière `Ctrl+Z` possible à ma connaissance.
 
 

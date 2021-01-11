@@ -9,6 +9,8 @@ licence: CC-BY-SA Ludwig Chieng
 
 # Gérer les fichiers texte
 
+[[toc]]
+
 ## Éditeur de fichier texte
 
 * **gedit** sur Debian et Ubuntu

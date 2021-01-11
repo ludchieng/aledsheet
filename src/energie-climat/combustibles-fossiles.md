@@ -8,6 +8,8 @@ tags: énergie climat ges gaz effet de serre énergies combustibles fossiles cha
 
 # Combustibles fossiles
 
+[[toc]]
+
 ## En un mot
 
 Les combustibles fossiles désignent en premier lieu le **pétrole**, le **charbon** et le **gaz naturel**. Leur utilisation date des débuts de la civilisation, mais leur essor majeur prit place au XIXe siècle.

@@ -9,6 +9,8 @@ licence: CC-BY-SA Ludwig Chieng
 
 # Fondamentaux de Linux Debian
 
+[[toc]]
+
 Linux peut être installé sur un ordinateur en substitution de Windows ou de Mac OS. Mais souvent, certains l'utilisent dans un cas de figure assez particulier :
 * **en dual-boot**. Cela signifie que l'ordinateur « possède » deux OS (systèmes d'exploitation). Au démarrage, on choisit de démarrer soit sous Linux, soit sous Windows. Mais pas les deux en même temps.
 * **dans une machine virtuelle**. Dans ce cas, il y a un OS, appelé « hôte », sur lequel on a lancé un programme qui fait tourner un OS « invité ». On peut avoir par exemple Windows 10 en OS hôte qui fait tourner Linux en OS invité par le biais du logiciel *Oracle VM VirtualBox*.

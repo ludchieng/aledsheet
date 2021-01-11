@@ -8,6 +8,8 @@ tags: énergie climat ges gaz effet de serre énergies combustibles fossiles cha
 
 # Dérèglement climatique
 
+[[toc]]
+
 ## En un mot
 
 Le climat a toujours évolué, à cause de différentes causes non liées à l'Homme (astronomie, géologie...). Le dérèglement climatique, que nous vivons actuellement, est un **changement extrêmement brutal et rapide**.

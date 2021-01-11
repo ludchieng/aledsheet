@@ -9,6 +9,8 @@ searchable: false
 
 # Sources et calculs
 
+[[toc]]
+
 ## Part des agriculteur·trice·s parmi la population française : 67 % en 1789 : 1.5% en 2014 (1.7% avec saisonniers)
 
 Part des agriculteurs parmi la population en 1789 :

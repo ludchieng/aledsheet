@@ -116,7 +116,6 @@
 }
 
 .article>table {
-    display: block;
     overflow: auto;
     @apply m-4 -mx-4 border border-gray-300 rounded text-base;
 
@@ -149,9 +148,11 @@
 
 nav {
     // TOC counter
-    ol li { display:block; } 
-    ol { list-style:none; }
-    ol > li:first-child { counter-reset: item; }
+    ol {
+        list-style:none;
+        counter-reset: item;
+    }
+    ol li { display:block; }
     ol > li { counter-increment: item; }
     ol > li:before { content:counters(item, ".") ". "; }
 }

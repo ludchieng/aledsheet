@@ -10,6 +10,8 @@ licence: (c) auteur inconnu
 
 # La technique
 
+[[toc]]
+
 La technique a aujourd'hui tellement envahi notre quotidien qu'elle nous apparaît souvent comme naturelle alors qu'elle est une forme de la culture. L'élevage de poules, la culture de fruits, la cuisine, les habits, les voitures, le papier, la politesse, la culture technique est partout, mais nous y sommes tellement habitués au quotidien que nous disons de ces pratiques que « c'est tout naturel ». Il est rare, quand on y réfléchie bien, que notre regard se pose sur une nature qui ne soit pas transformer par la culture technique. Pascal affirmait en ce sens que « la coutume est une seconde nature qui détruit la première » : selon lui, derrière les coutumes humaines, il n'est plus possible de découvrir la nature humaine universelle, commune aux hommes de cultures différentes (cf. Pensées).
 
 

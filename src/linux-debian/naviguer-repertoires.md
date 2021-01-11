@@ -9,6 +9,8 @@ licence: CC-BY-SA Ludwig Chieng
 
 # Naviguer dans les répertoires
 
+[[toc]]
+
 ``` shell
 # Se déplacer dans le répertoire "local" contenu dans "usr"
 # "cd" → "change directory"

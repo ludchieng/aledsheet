@@ -10,6 +10,8 @@ licence: (c) auteur inconnu
 
 # Le langage
 
+[[toc]]
+
 Le langage se définit comme un système de symboles permettant d'exprimer des pensées. Pour qu'il y ait langage, il y a donc trois conditions : 
 * une pensée à exprimer,
 * un ensemble de symboles exprimant des idées (ou concepts),

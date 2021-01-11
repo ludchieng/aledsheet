@@ -10,6 +10,8 @@ licence: (c) auteur inconnu
 
 # Le travail, esclavage ou libération ?
 
+[[toc]]
+
 Introduction : une vie humaine est aujourd'hui est grande partie consacrée au travail. Le travail est un fait social et culturel omniprésent. Le travail est étonnant par son caractère paradoxal : d'un côté, le travail nous permet de vivre et nous apporte toutes sortes de commodités ; les progrès techniques qui ont apporté tout le confort moderne sont le résultat d'un long travail coopératif. On considère même que le travail offre aux individus l'opportunité de se réaliser eux-mêmes en développant leurs talents. Mais d'un autre côté, nous le jugeons aussi comme un labeur pénible qui nous est imposé comme une contrainte : beaucoup se tuent au travail et c'est dans le travail que nous assistons à l'exploitation de l'homme par l'homme, ou encore à l'aliénation du travailleur à son travail. Voilà donc la question : le travail, esclavage ou libération ?
 
 

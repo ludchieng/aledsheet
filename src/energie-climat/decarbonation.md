@@ -8,6 +8,8 @@ tags: énergie climat ges gaz effet de serre énergies combustibles fossiles cha
 
 # Décarbonation
 
+[[toc]]
+
 ## En un mot
 
 L'énergie est la marque de la **transformation du monde**. Chaque activité humaine implique de l'énergie. Depuis le XIXe siècle, nos sociétés ont été bouleversées par l'essor exponentiel des **combustibles fossiles** (charbon, pétrole puis gaz). Les fossiles nous ont mis à disposition, pour **peu cher**, une **quantité démentielle d'énergie** permettant de nous affranchir des tâches qui s'effectuaient traditionnellement avec nos muscles, grâce à des **machines**.

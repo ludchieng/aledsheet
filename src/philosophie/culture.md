@@ -10,6 +10,8 @@ licence: (c) auteur inconnu
 
 # La culture
 
+[[toc]]
+
 L’espèce humaine, comme toute espèce vivante, est le résultat d'une lente **évolution biologique**, telle que Darwin l'a découvert au 19^e^ siècle : la vie est apparue sur Terre sous une forme primitive simple. L'être vivant se préserve lui-même du temps qui fait feu de tout, et avant de périr, s'il est chanceux, il reproduit souvent sa forme en transmettant ses gênes à un nouvel être vivant, et ainsi de suite.
 
 Mais la reproduction ne se fait jamais à l'identique, il y a des mutations génétiques hasardeuses, souvent désavantageuses, parfois avantageuses. Le nouvel individu sera toujours semblable mais différent. Si ses caractéristiques l'avantagent sur ses semblables pour sa préservation et sa reproduction, elles seront transmises à sa descendance, sinon elles disparaîtront. Et ainsi de suite pendant des millions et des milliards d'années : c'est le mécanisme de la sélection naturelle, le moteur de l'évolution des espèces vivantes.

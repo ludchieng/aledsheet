@@ -9,6 +9,8 @@ licence: CC-BY-SA Ludwig Chieng
 
 # Lister les fichiers
 
+[[toc]]
+
 ``` shell
 # Lister les fichiers et répertoires du répertoire courant
 $ ls

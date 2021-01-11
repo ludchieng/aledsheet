@@ -1,5 +1,5 @@
 ---
-id: opengl-bases
+id: code-minimal-avec-sdl
 title: Bases d'OpenGL
 author: Ludwig Chieng
 layout: default
@@ -7,9 +7,9 @@ tags: dev developpement logiciel c cpp c++ opengl open gl sdl
 licence: CC-BY-SA Ludwig Chieng
 ---
 
-# Bases d'OpenGL
+# Code minimal avec SDL
 
-## Installation Debian
+## Installation des libs sur Debian
 
 ``` shell
 $ sudo apt install libsdl1.2-dev libsdl-image1.2-dev

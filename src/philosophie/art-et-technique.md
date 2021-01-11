@@ -10,6 +10,8 @@ licence: (c) auteur inconnu
 
 # L'art, la technique, l'utile, le beau, l'agréable, le créateur, le fabriquant
 
+[[toc]]
+
 L'art est sans doute la forme culturelle la plus insaisissable, à tel point qu’il se présente sous des formes et à des fins variables : peinture, musique, danse, sculpture, littérature, broderie, couture, etc, sont autant d’œuvres d'art dont la forme surprend par sa variabilité. Qui plus est, même au sein d'un genre comme la musique, c'est encore la variabilité qui est frapante : car par exemple, le Requiem pour les morts de Mozart, la percussion Mandingue de Mamadi Keita, ou encore Paris sous les bombes de NTM, sont des œuvres musicales et doivent donc avoir quelques points communs pour avoir droit de porter ce même nom. Encore une fois, il est difficile de trouver l'unité de l'Art (sa définition, son essence, sa nature universelle) derrière la diversité des œuvres (les cas particuliers). C'est pour cette raison que la question « qu'est-ce que l'art ? » apparaît plus difficile encore que toute autre question de définition en philosophie. Il faudra ensuite se demander ce qu'est la beauté, dans la mesure où c'est bien souvent que nous attendons d'une œuvre d'art. Enfin, nous passerons du point de vue du spectateur à celui de l'artiste en nous demandant quelle est la spécificité de la création artistique.
  Il y aura donc trois question : (1) qu’est-ce que l’art ? (2) La beauté d’une œuvre est-elle subjective ou objective ? (3) Y a-t-il une spécificité de la création artistique ?
 

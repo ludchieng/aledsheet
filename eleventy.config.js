@@ -37,7 +37,13 @@ module.exports = eleventyConfig => {
     md.use( require('markdown-it-anchor') );
     md.use( require('markdown-it-charts') );
     md.use( require("markdown-it-toc-done-right"), {
-        level: [2, 3, 4, 5]
+        level: [2, 3, 4, 5],
+        callback: (html, ast) => {
+            // Hide toc in main section
+            //document.getElementsByClassName("table-of-contents").setAttribute("hidden");
+            // Copy toc in the "extras" section
+            //document.getElementById("toc").html = html;
+        }
     });
     md.use( require('markdown-it-texmath'), {
         engine: require('katex'),

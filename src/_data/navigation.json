@@ -48,20 +48,11 @@
       ]
     },
     {
-      "label": "Dev logiciel",
+      "label": "OpenGL",
       "items": [
         {
-          "label": "OpenGL (bases)",
-          "url": "/dev-logiciel/opengl-bases/"
-        }
-      ]
-    },
-    {
-      "label": "Dev web",
-      "items": [
-        {
-          "label": "Site statique",
-          "url": "/dev-web/site-statique/"
+          "label": "Code minimal avec SDL",
+          "url": "/opengl/code-minimal-avec-sdl"
         }
       ]
     },
@@ -95,22 +86,6 @@
         {
           "label": "Manipuler les fichiers",
           "url": "/linux-debian/manipuler-fichiers/"
-        },
-        {
-          "label": "Permissions",
-          "url": "/linux-debian/permissions/"
-        },
-        {
-          "label": "Autres commandes",
-          "url": "/linux-debian/autres-commandes/"
-        },
-        {
-          "label": "Programmer en C",
-          "url": "/linux-debian/compiler-programme-c/"
-        },
-        {
-          "label": "SSH",
-          "url": "/linux-debian/ssh/"
         }
       ]
     },
@@ -128,10 +103,6 @@
         {
           "label": "Développement limités",
           "url": "/maths/developpements-limites/"
-        },
-        {
-          "label": "Calcul vectoriel",
-          "url": "/maths/calcul-vectoriel/"
         }
       ]
     },
@@ -236,22 +207,6 @@
         {
           "label": "Religion",
           "url": "/philosophie/religion/"
-        },
-        {
-          "label": "Morale",
-          "url": "/philosophie/morale/"
-        },
-        {
-          "label": "Politique",
-          "url": "/philosophie/politique/"
-        },
-        {
-          "label": "Raison et réel",
-          "url": "/philosophie/raison-et-reel/"
-        },
-        {
-          "label": "Sujet",
-          "url": "/philosophie/sujet/"
         }
       ]
     }
